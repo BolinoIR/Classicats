@@ -1,0 +1,2469 @@
+{
+  "events": [
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Shim ready http://127.0.0.1:8000/api ws://127.0.0.1:8080"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Service worker registered: http://127.0.0.1:8000/game/"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Starting game as classicats-2fd79214-1364-4abf-be46-a4fd63239e8e"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Module backend: http://127.0.0.1:8000/api"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Module websocket: ws://127.0.0.1:8080"
+    },
+    {
+      "type": "console",
+      "level": "warning",
+      "text": "0ms |  WARN! IndexedDb is disabled"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "0ms |  INFO: WASM disabled; using asm.js runtime"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1ms |  Loader: DOWNLOADING 'bin-standalone.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1ms |  Loader: DOWNLOADING 'bin-standalone.mem.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1ms |  Loader: DOWNLOADING 'bin.data.startup._.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1ms |  Loader: DOWNLOADING 'bin.data.startup.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loaded prices Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 0%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 0%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "15ms |  Loader: PUT 'bin.data.startup.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "30ms |  Loader: PUT 'bin-standalone.mem.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "34ms |  Loader: PUT 'bin.data.startup._.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "35ms |  try run module: false bin: false mem: true data: true run: false runtime: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 45%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 47%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 48%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 50%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 51%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 53%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 55%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 56%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 68%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 70%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "536ms |  Loader: PUT 'bin-standalone.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 70%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 80%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 90%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1041ms |  try run module: true bin: true mem: true data: true run: false runtime: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1125ms |  try run module: true bin: true mem: true data: true run: false runtime: true"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1125ms |  starting libgamepix"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1127ms |  main( Array(7) )"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1129ms |  System started [browser], screen size 374x203 (1.84)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1130ms |  resfile: res.init"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1573ms |  Mix_Init: Initted!"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Hook get_store_button_size Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Hook get_store_button_size Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1655ms |  file read error at path: /tmp/msgCache.bin"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1656ms |  INFO: No message cache found"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1662ms |  Loader: DOWNLOADING 'bin.data.rest._.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1663ms |  Loader: DOWNLOADING 'bin.data.rest.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Ping error_handler_ready Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |  http://127.0.0.1:8000/game/?fresh=1780953340059"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |  Host: {\"caniuse\":{},\"wasmSupported\":true,\"hardwareConcurrency\":16,\"legacyVm\":false,\"brotliSupported\":true,\"webpSupported\":true,\"systemInfo\":{\"width\":374,\"height\":203.26086956521738,\"browser\":\"Chrome\",\"browserVersion\":\"148\",\"mobile\":false,\"os\":\"Windows\",\"osVersion\":\"10\",\"language\":\"en\",\"hasWebGL\":1,\"gpu\":\"ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Laptop GPU (0x000028E0) Direct3D11 vs_5_0 ps_5_0, D3D11)\",\"hasCursorLock\":0,\"hasFullscreen\":0,\"hasThreads\":false,\"hasWasm\":true,\"webglContextAttributes\":{\"preserveDrawingBuffer\":false}}}"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |  --"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |      Version: cats.1 2019-09-11 09:57:32 (15e32dd) asm.js"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |         Size: 4.8 Mb idb: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |       Canvas: 374x203.26 (1.84), dpi: 1x1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |      Workers: \"\" [no-op] queue 0"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |   Total time: 1848 ms, (NaN ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |          XHR: NaN ms, (576 ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |     lib time: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |    wasm load: 0 ms, (compile 0 ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |         eval: NaN ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |    eval main: 1 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |        frame: 720 ms, main: 696 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |       brotli: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |         webp: 0 ms, callbackTime: 0 ms [native]"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |         task: 160 ms, lowTime: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1848ms |  frame count: 1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1849ms |         diff: NaN ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1927ms |  Loader: PUT 'bin.data.rest.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2030ms |  Loader: PUT 'bin.data.rest._.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2833ms |  Loader: DOWNLOADING 'async/hud_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2837ms |  Loader: PUT 'async/hud_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2839ms |  Loader: DOWNLOADING 'async/icons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2843ms |  Loader: PUT 'async/icons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2846ms |  Loader: DOWNLOADING 'async/fx_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2852ms |  Loader: PUT 'async/fx_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2854ms |  Loader: DOWNLOADING 'async/emblems_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2861ms |  Loader: PUT 'async/emblems_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2863ms |  Loader: DOWNLOADING 'async/popup_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2867ms |  Loader: PUT 'async/popup_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2873ms |  Loader: DOWNLOADING 'async/buttons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2877ms |  Loader: PUT 'async/buttons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2882ms |  Loader: DOWNLOADING 'async/shop_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2886ms |  Loader: PUT 'async/shop_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2891ms |  Loader: DOWNLOADING 'async/offers_plate_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2896ms |  Loader: PUT 'async/offers_plate_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2902ms |  Loader: DOWNLOADING 'async/shared_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2907ms |  Loader: PUT 'async/shared_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2912ms |  Loader: DOWNLOADING 'async/wheel_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2916ms |  Loader: PUT 'async/wheel_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2919ms |  Loader: DOWNLOADING 'async/sticky_wheel_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2923ms |  Loader: PUT 'async/sticky_wheel_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2924ms |  Loader: DOWNLOADING 'async/drill_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2932ms |  Loader: PUT 'async/drill_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2936ms |  Loader: DOWNLOADING 'async/drill_long_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2941ms |  Loader: PUT 'async/drill_long_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2942ms |  Loader: DOWNLOADING 'async/chainsaw_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2947ms |  Loader: PUT 'async/chainsaw_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2949ms |  Loader: DOWNLOADING 'async/saw_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2953ms |  Loader: PUT 'async/saw_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2954ms |  Loader: DOWNLOADING 'async/impulse_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2959ms |  Loader: PUT 'async/impulse_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2960ms |  Loader: DOWNLOADING 'async/autoheal_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2964ms |  Loader: PUT 'async/autoheal_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2966ms |  Loader: DOWNLOADING 'async/gun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2970ms |  Loader: PUT 'async/gun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2972ms |  Loader: DOWNLOADING 'async/shotgun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2977ms |  Loader: PUT 'async/shotgun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2978ms |  Loader: DOWNLOADING 'async/balloon_gun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2982ms |  Loader: PUT 'async/balloon_gun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2986ms |  Loader: DOWNLOADING 'async/beam_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2989ms |  Loader: PUT 'async/beam_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2991ms |  Loader: DOWNLOADING 'async/body_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2995ms |  Loader: PUT 'async/body_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2999ms |  Loader: DOWNLOADING 'async/ingame_cats_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3002ms |  Loader: PUT 'async/ingame_cats_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3004ms |  Loader: DOWNLOADING 'async/ingame_cats_hats_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3010ms |  Loader: PUT 'async/ingame_cats_hats_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3011ms |  Loader: DOWNLOADING 'async/ingame_cats_suits_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3016ms |  Loader: PUT 'async/ingame_cats_suits_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3017ms |  Loader: DOWNLOADING 'async/body_stickers_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3024ms |  Loader: PUT 'async/body_stickers_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3028ms |  Loader: DOWNLOADING 'async/main_screen_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3033ms |  Loader: PUT 'async/main_screen_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3035ms |  Loader: DOWNLOADING 'async/main_screen_bgr_640_960.jpeg', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3042ms |  Loader: PUT 'async/main_screen_bgr_640_960.jpeg'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3043ms |  Loader: DOWNLOADING 'async/skills_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3051ms |  Loader: PUT 'async/skills_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3052ms |  Loader: DOWNLOADING 'async/skills_icons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3052ms |  Loader: DOWNLOADING 'async/zepto_logo_bubbles.mp3', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3058ms |  Loader: PUT 'async/skills_icons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3060ms |  Loader: DOWNLOADING 'async/tony_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3061ms |  Loader: PUT 'async/zepto_logo_bubbles.mp3'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3065ms |  Loader: PUT 'async/tony_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3069ms |  Loader: DOWNLOADING 'async/settings_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3074ms |  Loader: PUT 'async/settings_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3076ms |  Loader: DOWNLOADING 'async/gang_and_leaderboards_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3080ms |  Loader: PUT 'async/gang_and_leaderboards_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3087ms |  Loader: DOWNLOADING 'async/edit_screen_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3091ms |  Loader: PUT 'async/edit_screen_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3097ms |  Loader: DOWNLOADING 'async/defence_logs_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3102ms |  Loader: PUT 'async/defence_logs_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3106ms |  Loader: DOWNLOADING 'async/leagues_buttons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3110ms |  Loader: PUT 'async/leagues_buttons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8767ms |  INFO: Find balancer..."
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8768ms |  server arg (127.0.0.1:8080)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8768ms |  Using stubs server response: [{\"status\":\"OK\",\"instance\":{\"host\":\"127.0.0.1\",\"port\":8080}}]"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8770ms |  INFO: Server status: OK1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8776ms |  INFO: Server address changed: 127.0.0.1:80801"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8776ms |  INFO: Sending kGetProfileLite1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8778ms |  SocketLoader trying to connect protocol(1) socktype(6) '127.0.0.1:8080'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] WebSocket opening ws://127.0.0.1:8080/ "
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] WebSocket open ws://127.0.0.1:8080/"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] WebSocket message ws://127.0.0.1:8080/ 3"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8834ms |  INFO: Server response: onAckResponse on event kGetProfileLite1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8835ms |  INFO: Sending kGetConfig1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] WebSocket message ws://127.0.0.1:8080/ 3"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8870ms |  [libprotobuf ERROR /home/caiiiycuk/hiddensyst/sdk/gamepix/virtualenv/protobuf/protobuf-3.0.2/src/google/protobuf/message_lite.cc:118] Can't parse message of type \"BBProtocol.ServerMessage\" because it is missing required fields: (cannot determine missing fields for lite message)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8889ms |  ERROR: Server response: onServerError: Response parse failed1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8910ms |  Loader: DOWNLOADING 'async/popup.mp3', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "8914ms |  Loader: PUT 'async/popup.mp3'"
+    },
+    {
+      "type": "console",
+      "level": "warning",
+      "text": "[Classicats] WebSocket close ws://127.0.0.1:8080/ 1006 "
+    },
+    {
+      "type": "log",
+      "level": "warning",
+      "text": "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently"
+    },
+    {
+      "type": "log",
+      "level": "warning",
+      "text": "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio"
+    },
+    {
+      "type": "log",
+      "level": "warning",
+      "text": "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "731907ms |  INFO: applicationWillTerminate"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Shim ready http://127.0.0.1:8000/api ws://127.0.0.1:8080"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Service worker registered: http://127.0.0.1:8000/game/"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Starting game as classicats-2fd79214-1364-4abf-be46-a4fd63239e8e"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Module backend: http://127.0.0.1:8000/api"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Module websocket: ws://127.0.0.1:8080"
+    },
+    {
+      "type": "console",
+      "level": "warning",
+      "text": "0ms |  WARN! IndexedDb is disabled"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1ms |  INFO: WASM disabled; using asm.js runtime"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2ms |  Loader: DOWNLOADING 'bin-standalone.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2ms |  Loader: DOWNLOADING 'bin-standalone.mem.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3ms |  Loader: DOWNLOADING 'bin.data.startup._.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "3ms |  Loader: DOWNLOADING 'bin.data.startup.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loaded prices Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 0%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 0%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "13ms |  Loader: PUT 'bin.data.startup.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "29ms |  Loader: PUT 'bin-standalone.mem.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 2%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "43ms |  Loader: PUT 'bin.data.startup._.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "44ms |  try run module: false bin: false mem: true data: true run: false runtime: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 44%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 46%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 51%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 52%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 54%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 56%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 67%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 70%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "465ms |  Loader: PUT 'bin-standalone.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 70%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 80%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 90%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1004ms |  try run module: true bin: true mem: true data: true run: false runtime: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2012ms |  try run module: true bin: true mem: true data: true run: false runtime: true"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2015ms |  starting libgamepix"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "warning",
+      "text": "2016ms |  WARN! canvas size is too big, resized from 1920x1043.4782608695652 to 960x521.7391304347826"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2017ms |  main( Array(7) )"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2020ms |  System started [browser], screen size 960x521 (1.84)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2023ms |  resfile: res.init"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2497ms |  Mix_Init: Initted!"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Hook get_store_button_size Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Hook get_store_button_size Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2646ms |  file read error at path: /tmp/msgCache.bin"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2647ms |  INFO: No message cache found"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2658ms |  Loader: DOWNLOADING 'bin.data.rest._.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2659ms |  Loader: DOWNLOADING 'bin.data.rest.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "log",
+      "level": "warning",
+      "text": "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2745ms |  Loader: PUT 'bin.data.rest.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2746ms |  Loader: PUT 'bin.data.rest._.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Ping error_handler_ready Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10389ms |  http://127.0.0.1:8000/game/?fresh=1780955108545"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |  Host: {\"caniuse\":{},\"wasmSupported\":true,\"hardwareConcurrency\":16,\"legacyVm\":false,\"brotliSupported\":true,\"webpSupported\":true,\"systemInfo\":{\"width\":960,\"height\":521.7391304347826,\"browser\":\"Chrome\",\"browserVersion\":\"148\",\"mobile\":false,\"os\":\"Windows\",\"osVersion\":\"10\",\"language\":\"en\",\"hasWebGL\":1,\"gpu\":\"ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Laptop GPU (0x000028E0) Direct3D11 vs_5_0 ps_5_0, D3D11)\",\"hasCursorLock\":0,\"hasFullscreen\":0,\"hasThreads\":false,\"hasWasm\":true,\"webglContextAttributes\":{\"preserveDrawingBuffer\":false}}}"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |  --"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |      Version: cats.1 2019-09-11 09:57:32 (15e32dd) asm.js"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |         Size: 5.39 Mb idb: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |       Canvas: 960x521.74 (1.84), dpi: 1x1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |      Workers: \"\" [no-op] queue 0"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |   Total time: 10388 ms, (NaN ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |          XHR: NaN ms, (683 ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |     lib time: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |    wasm load: 0 ms, (compile 0 ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |         eval: NaN ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |    eval main: 1 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |        frame: 8371 ms, main: 8356 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |       brotli: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |         webp: 0 ms, callbackTime: 0 ms [native]"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |         task: 154 ms, lowTime: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |  frame count: 1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "10390ms |         diff: NaN ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "13982ms |  Loader: DOWNLOADING 'async/hud_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "13986ms |  Loader: PUT 'async/hud_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "14977ms |  Loader: DOWNLOADING 'async/icons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "14981ms |  Loader: PUT 'async/icons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "15972ms |  Loader: DOWNLOADING 'async/fx_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "15977ms |  Loader: PUT 'async/fx_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "16983ms |  Loader: DOWNLOADING 'async/emblems_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "16987ms |  Loader: PUT 'async/emblems_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "17983ms |  Loader: DOWNLOADING 'async/popup_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "17986ms |  Loader: PUT 'async/popup_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "18975ms |  Loader: DOWNLOADING 'async/buttons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "18979ms |  Loader: PUT 'async/buttons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "19984ms |  Loader: DOWNLOADING 'async/shop_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "19989ms |  Loader: PUT 'async/shop_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "20980ms |  Loader: DOWNLOADING 'async/offers_plate_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "20985ms |  Loader: PUT 'async/offers_plate_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "21977ms |  Loader: DOWNLOADING 'async/shared_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "21983ms |  Loader: PUT 'async/shared_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "22971ms |  Loader: DOWNLOADING 'async/wheel_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "22977ms |  Loader: PUT 'async/wheel_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "23974ms |  Loader: DOWNLOADING 'async/sticky_wheel_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "23979ms |  Loader: PUT 'async/sticky_wheel_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "24982ms |  Loader: DOWNLOADING 'async/drill_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "24986ms |  Loader: PUT 'async/drill_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "25977ms |  Loader: DOWNLOADING 'async/drill_long_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "25981ms |  Loader: PUT 'async/drill_long_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "26974ms |  Loader: DOWNLOADING 'async/chainsaw_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "26979ms |  Loader: PUT 'async/chainsaw_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "27985ms |  Loader: DOWNLOADING 'async/saw_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "27989ms |  Loader: PUT 'async/saw_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "28980ms |  Loader: DOWNLOADING 'async/impulse_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "28985ms |  Loader: PUT 'async/impulse_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "29982ms |  Loader: DOWNLOADING 'async/autoheal_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "29987ms |  Loader: PUT 'async/autoheal_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "30980ms |  Loader: DOWNLOADING 'async/gun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "30985ms |  Loader: PUT 'async/gun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "31976ms |  Loader: DOWNLOADING 'async/shotgun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "31980ms |  Loader: PUT 'async/shotgun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "32977ms |  Loader: DOWNLOADING 'async/balloon_gun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "32981ms |  Loader: PUT 'async/balloon_gun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33825ms |  Loader: DOWNLOADING 'async/beam_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33833ms |  Loader: PUT 'async/beam_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33835ms |  Loader: DOWNLOADING 'async/body_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33845ms |  Loader: PUT 'async/body_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33845ms |  Loader: DOWNLOADING 'async/ingame_cats_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33851ms |  Loader: PUT 'async/ingame_cats_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33856ms |  Loader: DOWNLOADING 'async/ingame_cats_hats_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33860ms |  Loader: PUT 'async/ingame_cats_hats_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33865ms |  Loader: DOWNLOADING 'async/ingame_cats_suits_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33868ms |  Loader: PUT 'async/ingame_cats_suits_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33873ms |  Loader: DOWNLOADING 'async/body_stickers_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33876ms |  Loader: PUT 'async/body_stickers_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33878ms |  Loader: DOWNLOADING 'async/main_screen_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33882ms |  Loader: PUT 'async/main_screen_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33884ms |  Loader: DOWNLOADING 'async/main_screen_bgr_640_960.jpeg', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33890ms |  Loader: PUT 'async/main_screen_bgr_640_960.jpeg'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33891ms |  Loader: DOWNLOADING 'async/skills_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33896ms |  Loader: PUT 'async/skills_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33898ms |  Loader: DOWNLOADING 'async/skills_icons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33905ms |  Loader: PUT 'async/skills_icons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33908ms |  Loader: DOWNLOADING 'async/tony_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33911ms |  Loader: PUT 'async/tony_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33913ms |  Loader: DOWNLOADING 'async/settings_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33917ms |  Loader: PUT 'async/settings_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33919ms |  Loader: DOWNLOADING 'async/gang_and_leaderboards_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33920ms |  Loader: DOWNLOADING 'async/zepto_logo_bubbles.mp3', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33924ms |  Loader: PUT 'async/zepto_logo_bubbles.mp3'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33925ms |  Loader: PUT 'async/gang_and_leaderboards_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33926ms |  Loader: DOWNLOADING 'async/edit_screen_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33933ms |  Loader: PUT 'async/edit_screen_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33934ms |  Loader: DOWNLOADING 'async/defence_logs_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33939ms |  Loader: PUT 'async/defence_logs_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33940ms |  Loader: DOWNLOADING 'async/leagues_buttons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "33945ms |  Loader: PUT 'async/leagues_buttons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "41019ms |  INFO: applicationWillTerminate"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Shim ready http://127.0.0.1:8000/api ws://127.0.0.1:8080"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Service worker registered: http://127.0.0.1:8000/game/"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Starting game as classicats-2fd79214-1364-4abf-be46-a4fd63239e8e"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Module backend: http://127.0.0.1:8000/api"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Module websocket: ws://127.0.0.1:8080"
+    },
+    {
+      "type": "console",
+      "level": "warning",
+      "text": "0ms |  WARN! IndexedDb is disabled"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "0ms |  INFO: WASM disabled; using asm.js runtime"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "0ms |  Loader: DOWNLOADING 'bin-standalone.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "0ms |  Loader: DOWNLOADING 'bin-standalone.mem.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1ms |  Loader: DOWNLOADING 'bin.data.startup._.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1ms |  Loader: DOWNLOADING 'bin.data.startup.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 0%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loaded prices Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 0%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 11%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 11%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "19ms |  Loader: PUT 'bin.data.startup.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 11%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 11%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "22ms |  Loader: PUT 'bin-standalone.mem.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 11%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "61ms |  Loader: PUT 'bin.data.startup._.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 40%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "63ms |  try run module: false bin: false mem: true data: true run: false runtime: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 44%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 46%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 49%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 50%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 52%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 54%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 56%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 62%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 70%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "523ms |  Loader: PUT 'bin-standalone.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 70%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 80%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 90%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1049ms |  try run module: true bin: true mem: true data: true run: false runtime: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1143ms |  try run module: true bin: true mem: true data: true run: false runtime: true"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1143ms |  starting libgamepix"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "warning",
+      "text": "1146ms |  WARN! canvas size is too big, resized from 1365x741.8478260869565 to 960.0000000000001x521.7391304347826"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1146ms |  main( Array(7) )"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1148ms |  System started [browser], screen size 960x521 (1.84)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1149ms |  resfile: res.init"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1219ms |  Mix_Init: Initted!"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Hook get_store_button_size Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Hook get_store_button_size Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1308ms |  file read error at path: /tmp/msgCache.bin"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1309ms |  INFO: No message cache found"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1316ms |  Loader: DOWNLOADING 'bin.data.rest._.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1317ms |  Loader: DOWNLOADING 'bin.data.rest.js', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Ping error_handler_ready Object"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |  http://127.0.0.1:8000/game/?fresh=1780955108545"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |  Host: {\"caniuse\":{},\"wasmSupported\":true,\"hardwareConcurrency\":16,\"legacyVm\":false,\"brotliSupported\":true,\"webpSupported\":true,\"systemInfo\":{\"width\":960.0000000000001,\"height\":521.7391304347826,\"browser\":\"Chrome\",\"browserVersion\":\"148\",\"mobile\":false,\"os\":\"Windows\",\"osVersion\":\"10\",\"language\":\"en\",\"hasWebGL\":1,\"gpu\":\"ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Laptop GPU (0x000028E0) Direct3D11 vs_5_0 ps_5_0, D3D11)\",\"hasCursorLock\":0,\"hasFullscreen\":0,\"hasThreads\":false,\"hasWasm\":true,\"webglContextAttributes\":{\"preserveDrawingBuffer\":false}}}"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |  --"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |      Version: cats.1 2019-09-11 09:57:32 (15e32dd) asm.js"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |         Size: 4.8 Mb idb: false"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |       Canvas: 960x521.74 (1.84), dpi: 1x1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |      Workers: \"\" [no-op] queue 0"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |   Total time: 1495 ms, (NaN ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |          XHR: NaN ms, (609 ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |     lib time: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |    wasm load: 0 ms, (compile 0 ms)"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1495ms |         eval: NaN ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1496ms |    eval main: 1 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1496ms |        frame: 348 ms, main: 332 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1496ms |       brotli: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1496ms |         webp: 0 ms, callbackTime: 0 ms [native]"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1496ms |         task: 161 ms, lowTime: 0 ms"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1496ms |  frame count: 1"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1496ms |         diff: NaN ms"
+    },
+    {
+      "type": "log",
+      "level": "warning",
+      "text": "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1571ms |  Loader: PUT 'bin.data.rest.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "1668ms |  Loader: PUT 'bin.data.rest._.js'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "[Classicats] Loading 100%"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2487ms |  Loader: DOWNLOADING 'async/hud_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2492ms |  Loader: PUT 'async/hud_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2494ms |  Loader: DOWNLOADING 'async/icons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2498ms |  Loader: PUT 'async/icons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2500ms |  Loader: DOWNLOADING 'async/fx_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2506ms |  Loader: PUT 'async/fx_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2508ms |  Loader: DOWNLOADING 'async/emblems_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2514ms |  Loader: PUT 'async/emblems_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2515ms |  Loader: DOWNLOADING 'async/popup_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2519ms |  Loader: PUT 'async/popup_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2525ms |  Loader: DOWNLOADING 'async/buttons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2528ms |  Loader: PUT 'async/buttons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2530ms |  Loader: DOWNLOADING 'async/shop_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2534ms |  Loader: PUT 'async/shop_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2539ms |  Loader: DOWNLOADING 'async/offers_plate_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2544ms |  Loader: PUT 'async/offers_plate_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2553ms |  Loader: DOWNLOADING 'async/shared_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2557ms |  Loader: PUT 'async/shared_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2562ms |  Loader: DOWNLOADING 'async/wheel_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2566ms |  Loader: PUT 'async/wheel_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2568ms |  Loader: DOWNLOADING 'async/sticky_wheel_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2574ms |  Loader: PUT 'async/sticky_wheel_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2578ms |  Loader: DOWNLOADING 'async/drill_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2583ms |  Loader: PUT 'async/drill_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2585ms |  Loader: DOWNLOADING 'async/drill_long_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2589ms |  Loader: PUT 'async/drill_long_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2591ms |  Loader: DOWNLOADING 'async/chainsaw_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2594ms |  Loader: PUT 'async/chainsaw_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2596ms |  Loader: DOWNLOADING 'async/saw_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2601ms |  Loader: PUT 'async/saw_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2605ms |  Loader: DOWNLOADING 'async/impulse_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2609ms |  Loader: PUT 'async/impulse_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2613ms |  Loader: DOWNLOADING 'async/autoheal_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2617ms |  Loader: PUT 'async/autoheal_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2619ms |  Loader: DOWNLOADING 'async/gun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2625ms |  Loader: PUT 'async/gun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2629ms |  Loader: DOWNLOADING 'async/shotgun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2634ms |  Loader: PUT 'async/shotgun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2639ms |  Loader: DOWNLOADING 'async/balloon_gun_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2644ms |  Loader: PUT 'async/balloon_gun_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2645ms |  Loader: DOWNLOADING 'async/beam_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2649ms |  Loader: PUT 'async/beam_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2653ms |  Loader: DOWNLOADING 'async/body_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2657ms |  Loader: PUT 'async/body_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2659ms |  Loader: DOWNLOADING 'async/ingame_cats_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2663ms |  Loader: PUT 'async/ingame_cats_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2665ms |  Loader: DOWNLOADING 'async/ingame_cats_hats_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2670ms |  Loader: PUT 'async/ingame_cats_hats_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2672ms |  Loader: DOWNLOADING 'async/ingame_cats_suits_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2677ms |  Loader: PUT 'async/ingame_cats_suits_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2682ms |  Loader: DOWNLOADING 'async/body_stickers_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2687ms |  Loader: PUT 'async/body_stickers_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2690ms |  Loader: DOWNLOADING 'async/main_screen_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2696ms |  Loader: PUT 'async/main_screen_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2702ms |  Loader: DOWNLOADING 'async/main_screen_bgr_640_960.jpeg', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2705ms |  Loader: DOWNLOADING 'async/zepto_logo_bubbles.mp3', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2707ms |  Loader: PUT 'async/main_screen_bgr_640_960.jpeg'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2713ms |  Loader: PUT 'async/zepto_logo_bubbles.mp3'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2714ms |  Loader: DOWNLOADING 'async/skills_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "log",
+      "level": "warning",
+      "text": "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2719ms |  Loader: PUT 'async/skills_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2724ms |  Loader: DOWNLOADING 'async/skills_icons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2728ms |  Loader: PUT 'async/skills_icons_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2731ms |  Loader: DOWNLOADING 'async/tony_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2735ms |  Loader: PUT 'async/tony_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2740ms |  Loader: DOWNLOADING 'async/settings_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2745ms |  Loader: PUT 'async/settings_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2747ms |  Loader: DOWNLOADING 'async/gang_and_leaderboards_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2752ms |  Loader: PUT 'async/gang_and_leaderboards_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2771ms |  Loader: DOWNLOADING 'async/edit_screen_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2776ms |  Loader: PUT 'async/edit_screen_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2781ms |  Loader: DOWNLOADING 'async/defence_logs_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2786ms |  Loader: PUT 'async/defence_logs_640_960.raw'"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2790ms |  Loader: DOWNLOADING 'async/leagues_buttons_640_960.raw', reason: BigStorage is not supported on this host"
+    },
+    {
+      "type": "console",
+      "level": "log",
+      "text": "2794ms |  Loader: PUT 'async/leagues_buttons_640_960.raw'"
+    }
+  ]
+}

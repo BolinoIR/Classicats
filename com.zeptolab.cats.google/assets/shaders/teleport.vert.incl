@@ -1,0 +1,32 @@
+#pragma include(builtInShaders/uber.vert.incl)
+#pragma include(builtInShaders/utils/mathUtils.incl)
+
+#define GRID_SIZE 0.01
+#define TICK_DURATION 0.2
+#define SEED_STEP 0.003
+
+float discrete(float value, float step) {
+    return ceil(value / step) * step;
+}
+
+float randOffset(float seed, float time) {
+    return lerp(-GRID_SIZE, GRID_SIZE, rand(vec3(seed, time, 0.0)));
+}
+
+void setTeleportMovement(lowp float factor)
+{
+	defaultMain();
+    
+    /*
+    float tick = discrete(u_time, TICK_DURATION);
+    vec2 seed = vec2(
+        discrete(gl_Position.x, SEED_STEP),
+        discrete(gl_Position.y, SEED_STEP)
+    );    
+    
+    gl_Position.x += randOffset(seed.x, tick);
+    gl_Position.y += randOffset(seed.y, tick);    
+    */
+    
+    gl_Position.x += factor * 0.005 * sin(u_time  * 12.0 + gl_Position.y * 5.0);
+}

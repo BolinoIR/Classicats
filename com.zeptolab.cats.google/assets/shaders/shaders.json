@@ -1,0 +1,23 @@
+{
+    "shaders": [
+        "alphaGradient.frag",
+        "blendColorMask.frag",
+        "circularProgress.frag",
+        "fxTrail.frag",
+        "gradientMap.frag",
+        "lightUp.frag",
+        "outline.frag",
+        "rampEdge.frag",
+        "rampEdge.vert",
+        "rampShadow.frag",
+        "rampShadow.vert",
+        "teleport.frag",
+        "teleport.vert",
+        "teleportOrange.frag",
+        "teleportOrange.vert"
+    ],
+    "includes": [
+        "teleport.frag.incl",
+        "teleport.vert.incl"
+    ]
+}

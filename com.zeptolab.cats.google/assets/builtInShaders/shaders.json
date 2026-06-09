@@ -1,0 +1,26 @@
+{
+    "shaders": [
+        "blur/blur.frag", 
+        "blur/blurFallback.frag", 
+        "blur/blurFallbackHorisontal.vert", 
+        "blur/blurFallbackVertical.vert", 
+        "blur/blurHorisontal.vert", 
+        "blur/blurVertical.vert", 
+        "colorMask.frag", 
+        "fallback.frag", 
+        "fallback.vert", 
+        "gaussianBlur.frag", 
+        "grayscale.frag", 
+        "noise.frag", 
+        "uber.frag", 
+        "uber.vert"
+    ], 
+    "includes": [
+        "utils/colorUtils.incl", 
+        "utils/mathUtils.incl", 
+        "utils/preferences.frag.incl", 
+        "utils/preferences.vert.incl", 
+        "uber.frag.incl", 
+        "uber.vert.incl"
+    ]
+}

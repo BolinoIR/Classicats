@@ -1,0 +1,5 @@
+#if defined(SHADER_DESKTOP) || defined(SHADER_QT5)
+    #define lowp
+    #define mediump
+    #define highp
+#endif

@@ -1,0 +1,304 @@
+{
+    "layers": [
+        {
+            "colorsSequence": [
+                {
+                    "percent": 0.0,
+                    "rangedColor": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.3 },
+                        "g": { "value": 1.0 },
+                        "r": { "value": 0.3 }
+                    }
+                },
+                {
+                    "percent": 1.0,
+                    "rangedColor": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.3 },
+                        "g": { "value": 1.0 },
+                        "r": { "value": 0.3 }
+                    }
+                }
+            ],
+            "emissionDensity": { "value": 84.7 },
+            "emissionSize": {
+                "a0": {
+                    "x": { "value": -2.0 },
+                    "y": { "value": -6.0 }
+                }
+            },
+            "emissionTime": { "value": 0.1 },
+            "name": "small leaves",
+            "particleInitialDirection": { "delta": 337.0, "value": -51.0 },
+            "particleInitialSpeed": { "value": 618.0 },
+            "rangedFormulaColor": {
+                "a0": {
+                    "a": { "value": 1.0 },
+                    "b": { "value": 0.3 },
+                    "g": { "value": 1.0 },
+                    "r": { "value": 0.3 }
+                }
+            },
+            "rangedParticleParams": {
+                "colorsSequence": [
+                    {
+                        "percent": 0.0,
+                        "rangedColor": {
+                            "a": { "value": 1.0 },
+                            "b": { "value": 0.3 },
+                            "g": { "value": 1.0 },
+                            "r": { "value": 0.3 }
+                        }
+                    },
+                    {
+                        "percent": 0.85,
+                        "rangedColor": {
+                            "a": { "value": 1.0 },
+                            "b": { "value": 0.3 },
+                            "g": { "value": 1.0 },
+                            "r": { "value": 0.3 }
+                        }
+                    },
+                    {
+                        "percent": 1.0,
+                        "rangedColor": {
+                            "b": { "value": 0.3 },
+                            "g": { "value": 1.0 },
+                            "r": { "value": 0.3 }
+                        }
+                    }
+                ],
+                "rangedFormulaColor": {
+                    "a0": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.3 },
+                        "g": { "value": 1.0 },
+                        "r": { "value": 0.3 }
+                    }
+                },
+                "rangedFormulaDrainSpeed": {
+                    "a0": { "value": 20.0 },
+                    "a3": { "value": 15.0 },
+                    "a4": { "value": 5.0 },
+                    "a5": { "value": 18.3 }
+                },
+                "rangedFormulaPosition": {
+                    "a0": { "x": { "delta": 10.0 }, "y": { "delta": 11.0 } },
+                    "a2": { "y": { "value": 1.2 } },
+                    "a3": { "x": { "delta": 2.0, "value": 4.0 }, "y": { "delta": 2.0, "value": 10.0 } },
+                    "a4": { "x": { "delta": 4.0, "value": 3.0 }, "y": { "delta": 3.0, "value": 2.0 } }
+                },
+                "rangedFormulaRotation": {
+                    "a0": { "delta": 348.0, "value": 2.0 },
+                    "a1": { "delta": 290.45, "value": 177.1 }
+                },
+                "rangedFormulaScale": {
+                    "a0": { "delta": 0.05 },
+                    "a3": { "value": 0.3 },
+                    "a4": { "value": 1.0 }
+                },
+                "rangedImageID": { "value": 182 },
+                "rangedImageName": [ "common/fx.psd/236" ],
+                "rangedLifetime": { "value": 0.25 }
+            }
+        },
+        {
+            "colorsSequence": [
+                {
+                    "percent": 0.0,
+                    "rangedColor": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.2 },
+                        "g": { "value": 0.7 },
+                        "r": { "value": 0.2 }
+                    }
+                },
+                {
+                    "percent": 1.0,
+                    "rangedColor": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.2 },
+                        "g": { "value": 0.7 },
+                        "r": { "value": 0.2 }
+                    }
+                }
+            ],
+            "emissionDensity": { "value": 150.0 },
+            "emissionTime": { "value": 0.1 },
+            "name": "leaf dust",
+            "particleInitialDirection": { "delta": 332.0, "value": -86.0 },
+            "particleInitialSpeed": { "value": 166.0 },
+            "rangedFormulaColor": {
+                "a0": {
+                    "a": { "value": 1.0 },
+                    "b": { "value": 0.2 },
+                    "g": { "value": 0.7 },
+                    "r": { "value": 0.2 }
+                }
+            },
+            "rangedParticleParams": {
+                "colorsSequence": [
+                    {
+                        "percent": 0.0,
+                        "rangedColor": {
+                            "a": { "value": 0.18 },
+                            "b": { "value": 0.2 },
+                            "g": { "value": 0.7 },
+                            "r": { "value": 0.2 }
+                        }
+                    },
+                    {
+                        "percent": 0.4,
+                        "rangedColor": {
+                            "a": { "value": 0.08 },
+                            "b": { "value": 0.2 },
+                            "g": { "value": 0.7 },
+                            "r": { "value": 0.2 }
+                        }
+                    },
+                    {
+                        "percent": 1.0,
+                        "rangedColor": {
+                            "b": { "value": 0.2 },
+                            "g": { "value": 0.7 },
+                            "r": { "value": 0.2 }
+                        }
+                    }
+                ],
+                "rangedFormulaColor": {
+                    "a0": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.2 },
+                        "g": { "value": 0.7 },
+                        "r": { "value": 0.2 }
+                    }
+                },
+                "rangedFormulaDrainSpeed": {
+                    "a0": { "value": 20.0 },
+                    "a3": { "value": 15.0 },
+                    "a4": { "value": 5.0 },
+                    "a5": { "value": 18.3 }
+                },
+                "rangedFormulaPosition": {
+                    "a0": { "x": { "delta": 10.0 }, "y": { "delta": 11.0 } },
+                    "a2": { "y": { "value": 1.2 } },
+                    "a3": { "x": { "delta": 2.0, "value": 4.0 }, "y": { "delta": 2.0, "value": 10.0 } },
+                    "a4": { "x": { "delta": 4.0, "value": 3.0 }, "y": { "delta": 3.0, "value": 2.0 } }
+                },
+                "rangedFormulaRotation": {
+                    "a0": { "delta": 348.0, "value": 2.0 },
+                    "a1": { "delta": 290.45, "value": 177.1 }
+                },
+                "rangedFormulaScale": {
+                    "a0": { "delta": 0.2 },
+                    "a3": { "value": 0.25 },
+                    "a4": { "value": 2.31 }
+                },
+                "rangedImageID": { "delta": 1, "value": 22 },
+                "rangedImageName": [ "common/fx.psd/22", "common/fx.psd/23" ],
+                "rangedLifetime": { "value": 0.2 }
+            }
+        },
+        {
+            "colorsSequence": [
+                {
+                    "percent": 0.0,
+                    "rangedColor": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.2 },
+                        "g": { "value": 0.7 },
+                        "r": { "value": 0.2 }
+                    }
+                },
+                {
+                    "percent": 1.0,
+                    "rangedColor": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.2 },
+                        "g": { "value": 0.7 },
+                        "r": { "value": 0.2 }
+                    }
+                }
+            ],
+            "emissionDensity": { "value": 27.75 },
+            "emissionTime": { "value": 0.25 },
+            "name": "big leaves",
+            "particleInitialDirection": { "delta": 332.0, "value": -86.0 },
+            "particleInitialSpeed": { "value": 502.0 },
+            "rangedFormulaColor": {
+                "a0": {
+                    "a": { "value": 1.0 },
+                    "b": { "value": 0.2 },
+                    "g": { "value": 0.7 },
+                    "r": { "value": 0.2 }
+                }
+            },
+            "rangedParticleParams": {
+                "colorsSequence": [
+                    {
+                        "percent": 0.0,
+                        "rangedColor": {
+                            "a": { "value": 1.0 },
+                            "g": { "value": 0.7 },
+                            "r": { "value": 0.2 }
+                        }
+                    },
+                    {
+                        "percent": 0.85,
+                        "rangedColor": {
+                            "a": { "value": 1.0 },
+                            "g": { "value": 0.7 },
+                            "r": { "value": 0.2 }
+                        }
+                    },
+                    {
+                        "percent": 1.0,
+                        "rangedColor": {
+                            "b": { "value": 0.2 },
+                            "g": { "value": 0.7 },
+                            "r": { "value": 0.2 }
+                        }
+                    }
+                ],
+                "rangedFormulaColor": {
+                    "a0": {
+                        "a": { "value": 1.0 },
+                        "b": { "value": 0.2 },
+                        "g": { "value": 0.7 },
+                        "r": { "value": 0.2 }
+                    }
+                },
+                "rangedFormulaDrainPosition": {
+                    "a0": { "y": { "value": 200.0 } }
+                },
+                "rangedFormulaDrainSpeed": {
+                    "a0": { "value": 20.0 },
+                    "a3": { "value": 15.0 },
+                    "a4": { "value": 5.0 },
+                    "a5": { "value": 18.3 }
+                },
+                "rangedFormulaPosition": {
+                    "a0": { "x": { "delta": 10.0 }, "y": { "delta": 11.0 } },
+                    "a2": { "y": { "value": 1.2 } },
+                    "a3": { "x": { "delta": 2.0, "value": 4.0 }, "y": { "delta": 2.0, "value": 10.0 } },
+                    "a4": { "x": { "delta": 4.0, "value": 3.0 }, "y": { "delta": 3.0, "value": 2.0 } }
+                },
+                "rangedFormulaRotation": {
+                    "a0": { "delta": 348.0, "value": 2.0 },
+                    "a1": { "delta": 290.45, "value": 177.1 }
+                },
+                "rangedFormulaScale": {
+                    "a0": { "value": 0.1 },
+                    "a3": { "value": 0.6 },
+                    "a4": { "value": 3.58 }
+                },
+                "rangedImageID": { "delta": 2, "value": 181 },
+                "rangedImageName": [ "common/fx.psd/234", "common/fx.psd/235", "common/fx.psd/236" ],
+                "rangedLifetime": { "value": 0.2 }
+            }
+        }
+    ],
+    "name": "",
+    "version": 1
+}

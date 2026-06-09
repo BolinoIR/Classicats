@@ -1,0 +1,1135 @@
+[Mon Jun  8 20:46:19 2026] PHP 8.5.7 Development Server (http://127.0.0.1:8000) started
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63943 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63943 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63944 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63944 [200]: HEAD /game/gamepix-loader.js
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63944 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63945 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63945 [200]: HEAD /game/js/game.js
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63945 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63946 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63946 [200]: HEAD /game/wbin-standalone.js
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63946 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63947 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63947 [200]: HEAD /game/bin.hd.data.startup.js
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63947 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63948 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63948 [200]: HEAD /game/bin.hd.data.startup._.js
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63948 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63949 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63949 [200]: HEAD /game/bin-standalone.js
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63949 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63950 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63950 [200]: HEAD /gamepix.js
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63950 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63951 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63951 [200]: HEAD /assets/style.css
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63951 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63953 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63953 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63955 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63955 Closing
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63956 Accepted
+[Mon Jun  8 20:47:00 2026] 127.0.0.1:63956 Closing
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63976 Accepted
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63976 [200]: GET /game/
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63976 Closing
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63977 Accepted
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63977 [200]: HEAD /game/
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63977 Closing
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63979 Accepted
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63979 Closing
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63981 Accepted
+[Mon Jun  8 20:47:27 2026] 127.0.0.1:63981 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52263 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52263 [200]: GET /game/
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52263 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:50735 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57123 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:50735 [200]: GET /assets/style.css
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58154 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57123 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:55911 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58154 [200]: GET /gamepix.js
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:55911 [200]: GET /game/js/game.js
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57123 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:50735 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58154 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:55911 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:53272 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:53272 [200]: GET /game/manifest-game.json
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:53272 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61051 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:63911 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:53874 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:59295 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61051 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:63911 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:53874 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:59295 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61025 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58169 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61025 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58169 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:56607 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:51943 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:56607 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:51943 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:55461 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:55461 [200]: GET /game/
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:55461 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:64975 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52773 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:64975 [200]: GET /game/favicon.ico
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52773 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:64975 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:63994 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:63994 [200]: GET /game/sw-game.js
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:63994 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:53250 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57090 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:64510 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57338 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:53250 [200]: GET /assets/style.css
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57090 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:64510 [200]: GET /gamepix.js
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57338 [200]: GET /game/js/game.js
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57090 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:64510 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:57338 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:53250 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61215 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61215 [200]: GET /game/manifest-game.json
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61215 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58941 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58941 [200]: GET /offline.html
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58941 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:60006 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:60006 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:51745 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:62805 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:51745 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:50698 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:62805 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:50698 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61620 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:61620 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52104 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52104 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58146 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:58146 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52780 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52780 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52079 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:63393 Accepted
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52079 [200]: GET /game/favicon.ico
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:63393 Closing
+[Mon Jun  8 20:48:28 2026] 127.0.0.1:52079 Closing
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:63599 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:63599 Closing
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:56718 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:56718 Closing
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:60280 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:49669 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:60280 Closing
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:49669 Closing
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:54398 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:55432 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:54875 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:54398 [200]: GET /game/wbin-standalone._.js
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:55432 [200]: GET /game/bin.hd.data.startup._.js
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:54875 [200]: GET /game/bin.hd.data.startup.js
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:54875 Closing
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:54398 Closing
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:55432 Closing
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:55730 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:62266 Accepted
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:55730 [200]: GET /game/bin-standalone.js
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:62266 [200]: GET /game/bin-standalone.mem.js
+[Mon Jun  8 20:48:29 2026] 127.0.0.1:62266 Closing
+[Mon Jun  8 20:48:30 2026] 127.0.0.1:55730 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:59263 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:59263 [200]: GET /game/
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:59263 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:60574 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:57939 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:60574 [200]: GET /assets/style.css
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55593 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:57939 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:65109 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55593 [200]: GET /gamepix.js
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:65109 [200]: GET /game/js/game.js
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:57939 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:60574 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55593 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:65109 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56152 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56152 [200]: GET /game/manifest-game.json
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56152 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:53275 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58544 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:61106 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:53275 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58544 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:62708 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:61106 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:62708 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56053 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56053 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:51368 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:51368 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:61057 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56529 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:61057 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56529 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58727 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58727 [200]: GET /game/
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58727 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55545 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55545 [200]: GET /game/favicon.ico
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:52073 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:52073 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55545 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:60271 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:60271 [200]: GET /game/sw-game.js
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:60271 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:63241 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:49162 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:52701 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55164 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:63241 [200]: GET /assets/style.css
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:49162 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:52701 [200]: GET /gamepix.js
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55164 [200]: GET /game/js/game.js
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:49162 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:52701 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55164 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:63241 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56347 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56347 [200]: GET /game/manifest-game.json
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56347 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58035 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58035 [200]: GET /offline.html
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58035 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:65073 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:65073 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:57328 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:54403 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:57328 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:63484 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:54403 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:63484 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:53486 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:53486 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56881 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:56881 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:49669 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:49669 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:61204 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55761 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:61204 [200]: GET /game/favicon.ico
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:55761 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:61204 Closing
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58193 Accepted
+[Mon Jun  8 20:50:57 2026] 127.0.0.1:58193 Closing
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:50707 Accepted
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:50707 Closing
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:53223 Accepted
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:53223 Closing
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:50056 Accepted
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:56916 Accepted
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:50056 Closing
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:56916 Closing
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:55781 Accepted
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:54489 Accepted
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:50180 Accepted
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:55781 [200]: GET /game/wbin-standalone._.js
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:54489 [200]: GET /game/bin.hd.data.startup._.js
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:50180 [200]: GET /game/bin.hd.data.startup.js
+[Mon Jun  8 20:50:58 2026] 127.0.0.1:50180 Closing
+[Mon Jun  8 20:50:59 2026] 127.0.0.1:55781 Closing
+[Mon Jun  8 20:50:59 2026] 127.0.0.1:54489 Closing
+[Mon Jun  8 20:50:59 2026] 127.0.0.1:64501 Accepted
+[Mon Jun  8 20:50:59 2026] 127.0.0.1:53098 Accepted
+[Mon Jun  8 20:50:59 2026] 127.0.0.1:64501 [200]: GET /game/bin-standalone.js
+[Mon Jun  8 20:50:59 2026] 127.0.0.1:53098 [200]: GET /game/bin-standalone.mem.js
+[Mon Jun  8 20:50:59 2026] 127.0.0.1:53098 Closing
+[Mon Jun  8 20:50:59 2026] 127.0.0.1:64501 Closing
+[Mon Jun  8 21:13:32 2026] 127.0.0.1:54271 Accepted
+[Mon Jun  8 21:13:32 2026] 127.0.0.1:54271 [200]: GET /game/
+[Mon Jun  8 21:13:32 2026] 127.0.0.1:54271 Closing
+[Mon Jun  8 21:13:32 2026] 127.0.0.1:54272 Accepted
+[Mon Jun  8 21:13:32 2026] 127.0.0.1:54272 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:61945 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:61945 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:61945 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:59587 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:56197 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:59587 [200]: GET /game/
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:59587 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:56197 [200]: GET /assets/style.css
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:64255 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:63854 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:64255 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:63854 [200]: GET /gamepix.js
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:56197 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:64255 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:63854 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:62861 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:52039 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:62861 [200]: GET /game/js/game.js
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:52039 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:62861 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:52039 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:64057 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:55657 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:53896 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:64057 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:55657 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:53896 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:58199 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:58938 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:58199 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:58938 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:61787 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:61787 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:57697 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:57697 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:57697 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:61124 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:61124 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:64590 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:51709 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:64590 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:51709 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:64590 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:49669 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:49669 Closing
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:59458 Accepted
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:59458 [200]: GET /offline.html
+[Mon Jun  8 21:13:46 2026] 127.0.0.1:59458 Closing
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:50117 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:50117 Closing
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:55779 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:55779 Closing
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:63091 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:65020 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:63091 Closing
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:65020 Closing
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:52814 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:51557 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:54458 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:52814 [200]: GET /game/wbin-standalone._.js
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:51557 [200]: GET /game/bin.hd.data.startup._.js
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:54458 [200]: GET /game/bin.hd.data.startup.js
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:54458 Closing
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:51557 Closing
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:52814 Closing
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:55293 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:57650 Accepted
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:55293 [200]: GET /game/bin-standalone.js
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:57650 [200]: GET /game/bin-standalone.mem.js
+[Mon Jun  8 21:13:47 2026] 127.0.0.1:57650 Closing
+[Mon Jun  8 21:13:48 2026] 127.0.0.1:55293 Closing
+[Mon Jun  8 21:13:59 2026] 127.0.0.1:58872 Accepted
+[Mon Jun  8 21:13:59 2026] 127.0.0.1:59850 Accepted
+[Mon Jun  8 21:13:59 2026] 127.0.0.1:58872 [200]: GET /assets/style.css
+[Mon Jun  8 21:13:59 2026] 127.0.0.1:59850 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:13:59 2026] 127.0.0.1:59850 Closing
+[Mon Jun  8 21:13:59 2026] 127.0.0.1:58872 Closing
+[Mon Jun  8 21:13:59 2026] 127.0.0.1:57827 Accepted
+[Mon Jun  8 21:13:59 2026] 127.0.0.1:57827 Closing
+[Mon Jun  8 21:14:01 2026] 127.0.0.1:53855 Accepted
+[Mon Jun  8 21:14:01 2026] 127.0.0.1:53855 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:58928 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:55999 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:58928 [200]: GET /game/?run=1780940651871
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:58928 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:55999 [200]: GET /assets/style.css
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:63374 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:49951 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:63374 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:49951 [200]: GET /gamepix.js
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:54250 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:54250 [200]: GET /game/js/game.js
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:55999 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:63374 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:49951 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:54250 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:61538 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:61538 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:61538 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:61635 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:61635 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:64911 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:56901 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:64911 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:56901 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:65136 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:65059 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:65136 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:65069 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:65059 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:65069 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:60346 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:60346 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:61517 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:61517 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:49705 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:49705 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:53858 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:53858 Closing
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:63485 Accepted
+[Mon Jun  8 21:14:11 2026] 127.0.0.1:63485 Closing
+[Mon Jun  8 21:14:12 2026] 127.0.0.1:52981 Accepted
+[Mon Jun  8 21:14:12 2026] 127.0.0.1:52981 Closing
+[Mon Jun  8 21:14:12 2026] 127.0.0.1:65188 Accepted
+[Mon Jun  8 21:14:12 2026] 127.0.0.1:65188 Closing
+[Mon Jun  8 21:14:12 2026] 127.0.0.1:59521 Accepted
+[Mon Jun  8 21:14:12 2026] 127.0.0.1:59521 Closing
+[Mon Jun  8 21:14:12 2026] 127.0.0.1:50349 Accepted
+[Mon Jun  8 21:14:12 2026] 127.0.0.1:50349 Closing
+[Mon Jun  8 21:14:13 2026] 127.0.0.1:57000 Accepted
+[Mon Jun  8 21:14:13 2026] 127.0.0.1:57000 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:14:13 2026] 127.0.0.1:57000 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:65475 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:65475 [200]: GET /game/?debug=1780940730509
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:65475 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:55774 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:62533 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:59336 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:55774 [200]: GET /assets/style.css
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:62533 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:59336 [200]: GET /gamepix.js
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:52790 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:52790 [200]: GET /game/js/game.js
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:62533 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:59336 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:55774 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:52790 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:55088 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:55088 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:64489 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:53760 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:64489 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:54538 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:53760 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:50399 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:54538 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:50399 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:58408 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:58408 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:60957 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:58758 Accepted
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:60957 Closing
+[Mon Jun  8 21:15:30 2026] 127.0.0.1:58758 Closing
+[Mon Jun  8 21:15:31 2026] 127.0.0.1:51791 Accepted
+[Mon Jun  8 21:15:31 2026] 127.0.0.1:51791 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:15:31 2026] 127.0.0.1:51791 Closing
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:57979 Accepted
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:59407 Accepted
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:57979 [200]: GET /assets/style.css
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:59407 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:59407 Closing
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:57979 Closing
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:59584 Accepted
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:59584 Closing
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:50844 Accepted
+[Mon Jun  8 21:15:41 2026] 127.0.0.1:50844 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62470 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62470 [200]: GET /game/?debug2=1780940760262
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62470 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:54078 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:49760 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:54078 [200]: GET /assets/style.css
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:49760 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62423 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:55745 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62423 [200]: GET /gamepix.js
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:55745 [200]: GET /game/js/game.js
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:49760 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:54078 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62423 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:55745 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:52771 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:53249 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:61442 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:52771 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:53249 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:61442 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:60664 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:59277 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:60664 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62210 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:59277 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62210 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62813 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:55640 Accepted
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:62813 Closing
+[Mon Jun  8 21:16:00 2026] 127.0.0.1:55640 Closing
+[Mon Jun  8 21:16:01 2026] 127.0.0.1:52167 Accepted
+[Mon Jun  8 21:16:01 2026] 127.0.0.1:52167 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:16:01 2026] 127.0.0.1:52167 Closing
+[Mon Jun  8 21:16:08 2026] 127.0.0.1:51521 Accepted
+[Mon Jun  8 21:16:08 2026] 127.0.0.1:51521 Closing
+[Mon Jun  8 21:16:08 2026] 127.0.0.1:52341 Accepted
+[Mon Jun  8 21:16:08 2026] 127.0.0.1:52341 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:61249 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:50683 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:61249 [200]: GET /game/?debug3=1780940786508
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:61249 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:50683 [200]: GET /assets/style.css
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:60718 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:61833 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:60718 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:60994 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:61833 [200]: GET /gamepix.js
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:60994 [200]: GET /game/js/game.js
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:50683 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:60718 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:61833 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:60994 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:52385 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:52385 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:49316 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:49316 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:64011 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:50944 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:55599 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:49316 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:62806 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:64011 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:50944 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:55599 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:57356 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:62806 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:64458 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:57356 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:64458 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:50703 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:50703 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:51986 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:51986 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:63223 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:63223 Closing
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:63198 Accepted
+[Mon Jun  8 21:16:26 2026] 127.0.0.1:63198 Closing
+[Mon Jun  8 21:16:27 2026] 127.0.0.1:56235 Accepted
+[Mon Jun  8 21:16:27 2026] 127.0.0.1:56235 Closing
+[Mon Jun  8 21:16:27 2026] 127.0.0.1:52840 Accepted
+[Mon Jun  8 21:16:27 2026] 127.0.0.1:52840 Closing
+[Mon Jun  8 21:16:27 2026] 127.0.0.1:55408 Accepted
+[Mon Jun  8 21:16:27 2026] 127.0.0.1:55408 Closing
+[Mon Jun  8 21:16:27 2026] 127.0.0.1:63526 Accepted
+[Mon Jun  8 21:16:27 2026] 127.0.0.1:63526 Closing
+[Mon Jun  8 21:16:28 2026] 127.0.0.1:59044 Accepted
+[Mon Jun  8 21:16:28 2026] 127.0.0.1:59044 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:16:28 2026] 127.0.0.1:59044 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:53428 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:50534 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:53428 [200]: GET /game/?debug3=1780940786508
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:53428 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:50534 [200]: GET /assets/style.css
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:51769 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:51769 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:52482 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:53912 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:52482 [200]: GET /gamepix.js
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:53912 [200]: GET /game/js/game.js
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:50534 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:51769 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:52482 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:53912 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:57245 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:57245 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:65429 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:65429 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:61775 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:62523 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:65429 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:55256 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:61775 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:62523 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:55256 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:52430 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:61081 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:52430 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:62351 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:61081 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:62351 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:52510 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:51192 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:52510 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:51192 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:54659 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:51386 Accepted
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:54659 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:51386 Closing
+[Mon Jun  8 21:17:20 2026] 127.0.0.1:54659 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:58963 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:58963 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:60500 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:56632 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:60500 [200]: GET /game/?debug3=1780940786508
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:60500 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:56632 [200]: GET /assets/style.css
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:57129 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:55622 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:57129 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:63221 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:55622 [200]: GET /gamepix.js
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:63221 [200]: GET /game/js/game.js
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:56632 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:57129 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:55622 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:63221 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:53205 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:53205 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:53205 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51470 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51470 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:61514 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51372 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:61514 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:56538 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51372 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:52400 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:56538 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:52666 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:52400 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:56808 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:52666 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:49971 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:56808 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:49971 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:63611 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:63611 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51369 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51369 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51156 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51156 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:50072 Accepted
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:50072 Closing
+[Mon Jun  8 21:17:21 2026] 127.0.0.1:51156 Closing
+[Mon Jun  8 21:17:22 2026] 127.0.0.1:58770 Accepted
+[Mon Jun  8 21:17:22 2026] 127.0.0.1:58770 Closing
+[Mon Jun  8 21:17:22 2026] 127.0.0.1:60385 Accepted
+[Mon Jun  8 21:17:22 2026] 127.0.0.1:60385 Closing
+[Mon Jun  8 21:17:22 2026] 127.0.0.1:53150 Accepted
+[Mon Jun  8 21:17:22 2026] 127.0.0.1:53150 Closing
+[Mon Jun  8 21:17:22 2026] 127.0.0.1:55693 Accepted
+[Mon Jun  8 21:17:22 2026] 127.0.0.1:55693 Closing
+[Mon Jun  8 21:17:23 2026] 127.0.0.1:49990 Accepted
+[Mon Jun  8 21:17:23 2026] 127.0.0.1:49990 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:17:23 2026] 127.0.0.1:49990 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:53459 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:53459 [200]: GET /game/?debug3=1780940786508
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:53459 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:58493 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:58493 [200]: GET /assets/style.css
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:57627 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:62578 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:57627 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:62578 [200]: GET /gamepix.js
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:54816 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:54816 [200]: GET /game/js/game.js
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:58493 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:57627 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:62578 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:54816 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:50583 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:50583 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:50583 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:52129 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:54660 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:52129 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:57914 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:54660 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:50251 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:57914 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:60123 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:50251 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:60376 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:60123 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:50755 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:60376 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:50755 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:53351 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:53351 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:59301 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:59301 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:63678 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:62480 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:63678 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:62480 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:63678 Closing
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:62798 Accepted
+[Mon Jun  8 21:17:27 2026] 127.0.0.1:62798 Closing
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:63617 Accepted
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:63617 Closing
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:59635 Accepted
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:59635 Closing
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:52093 Accepted
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:52093 Closing
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:59285 Accepted
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:59285 Closing
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:52060 Accepted
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:52060 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:17:28 2026] 127.0.0.1:52060 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:59553 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:59553 [200]: GET /
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:59553 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61817 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:50936 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61817 [200]: GET /game/
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61817 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:50936 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:63100 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:53308 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:63100 [200]: GET /assets/style.css
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:53857 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:53308 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:55580 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:53857 [200]: GET /gamepix.js
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:55580 [200]: GET /game/js/game.js
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:53308 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:63100 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:53857 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:55580 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:65505 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:65505 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:56267 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61055 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:56267 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:60544 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61055 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:65505 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:58568 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:60544 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61015 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:58568 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:55848 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61015 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:55848 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:54653 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:54653 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61817 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:61817 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:59248 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:59248 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:60486 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:60486 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:57625 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:57625 Closing
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:63602 Accepted
+[Mon Jun  8 21:18:35 2026] 127.0.0.1:63602 Closing
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:65489 Accepted
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:65489 Closing
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:64577 Accepted
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:64577 Closing
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:57762 Accepted
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:57762 Closing
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:51081 Accepted
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:51081 Closing
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:65403 Accepted
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:65403 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:18:36 2026] 127.0.0.1:65403 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:60958 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:57118 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:60958 [200]: GET /game/
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:60958 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:57118 [200]: GET /assets/style.css
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:58189 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:54971 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:64485 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:58189 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:54971 [200]: GET /gamepix.js
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:64485 [200]: GET /game/js/game.js
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:57118 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:58189 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:54971 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:64485 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:55769 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:57665 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:55769 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:57665 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:61207 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:62906 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:61207 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:55769 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:50711 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:62906 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:58123 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:50711 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:57278 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:58123 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:57278 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:59501 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:59501 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:52475 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:52475 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:59007 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:58731 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:59007 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:58731 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:59007 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:52693 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:52693 Closing
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:54554 Accepted
+[Mon Jun  8 21:20:20 2026] 127.0.0.1:54554 Closing
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:58059 Accepted
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:58059 Closing
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:53898 Accepted
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:53898 Closing
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:54849 Accepted
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:54849 Closing
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:49669 Accepted
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:49669 Closing
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:49701 Accepted
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:49701 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:20:21 2026] 127.0.0.1:49701 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:49669 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:57885 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:49669 [200]: GET /game/
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:49669 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:57885 [200]: GET /assets/style.css
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:64059 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:53485 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:64059 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:54718 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:53485 [200]: GET /gamepix.js
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:54718 [200]: GET /game/js/game.js
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:57885 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:64059 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:53485 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:54718 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:56474 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:56474 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:56474 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:49710 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:49710 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:50997 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:63735 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:50997 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:63735 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:61054 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:60131 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:61054 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:50136 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:60131 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:50136 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:50835 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:50835 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:63156 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:63156 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:64254 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:64254 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:54794 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:54794 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:64254 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:54917 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:54917 Closing
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:63087 Accepted
+[Mon Jun  8 21:28:02 2026] 127.0.0.1:63087 Closing
+[Mon Jun  8 21:28:03 2026] 127.0.0.1:63420 Accepted
+[Mon Jun  8 21:28:03 2026] 127.0.0.1:63420 Closing
+[Mon Jun  8 21:28:03 2026] 127.0.0.1:51333 Accepted
+[Mon Jun  8 21:28:03 2026] 127.0.0.1:51333 Closing
+[Mon Jun  8 21:28:03 2026] 127.0.0.1:59064 Accepted
+[Mon Jun  8 21:28:03 2026] 127.0.0.1:57117 Accepted
+[Mon Jun  8 21:28:03 2026] 127.0.0.1:59064 Closing
+[Mon Jun  8 21:28:03 2026] 127.0.0.1:57117 Closing
+[Mon Jun  8 21:28:04 2026] 127.0.0.1:53129 Accepted
+[Mon Jun  8 21:28:04 2026] 127.0.0.1:53129 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:28:04 2026] 127.0.0.1:53129 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:61989 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:51006 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:61989 [200]: GET /game/
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:61989 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:51006 [200]: GET /assets/style.css
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:60305 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:63619 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:60305 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:59047 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:63619 [200]: GET /gamepix.js
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:59047 [200]: GET /game/js/game.js
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:51006 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:60305 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:63619 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:59047 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:53969 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:53969 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:53969 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:61075 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:59590 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:64365 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:61075 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:59590 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:64365 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:52736 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:54941 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:52736 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:65064 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:54941 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:65064 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:55315 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:50103 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:55315 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:50103 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:65047 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:59283 Accepted
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:65047 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:59283 Closing
+[Mon Jun  8 21:28:20 2026] 127.0.0.1:65047 Closing
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:51440 Accepted
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:51440 Closing
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:60463 Accepted
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:60463 Closing
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:55754 Accepted
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:60002 Accepted
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:55754 Closing
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:60002 Closing
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:65298 Accepted
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:65298 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:28:21 2026] 127.0.0.1:65298 Closing
+[Mon Jun  8 21:28:23 2026] 127.0.0.1:55586 Accepted
+[Mon Jun  8 21:28:23 2026] 127.0.0.1:55909 Accepted
+[Mon Jun  8 21:28:23 2026] 127.0.0.1:55586 [200]: GET /assets/style.css
+[Mon Jun  8 21:28:23 2026] 127.0.0.1:55909 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:28:23 2026] 127.0.0.1:55909 Closing
+[Mon Jun  8 21:28:23 2026] 127.0.0.1:55586 Closing
+[Mon Jun  8 21:28:23 2026] 127.0.0.1:58697 Accepted
+[Mon Jun  8 21:28:23 2026] 127.0.0.1:58697 Closing
+[Mon Jun  8 21:28:24 2026] 127.0.0.1:54225 Accepted
+[Mon Jun  8 21:28:24 2026] 127.0.0.1:54225 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53381 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:56757 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53381 [200]: GET /game/
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53381 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:56757 [200]: GET /assets/style.css
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:57641 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:49669 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:57641 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:55977 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:49669 [200]: GET /gamepix.js
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:55977 [200]: GET /game/js/game.js
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:56757 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:57641 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:49669 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:55977 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53791 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53791 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53791 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53409 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:60262 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:51732 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53409 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:65172 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:60262 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:51732 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:63028 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:65172 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:50951 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:63028 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:50951 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:51582 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:51582 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:63624 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:63624 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53155 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:57408 Accepted
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53155 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:57408 Closing
+[Mon Jun  8 21:28:59 2026] 127.0.0.1:53155 Closing
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:60015 Accepted
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:60015 Closing
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:50758 Accepted
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:50758 Closing
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:49669 Accepted
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:50454 Accepted
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:49669 Closing
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:50454 Closing
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:55954 Accepted
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:55954 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:29:00 2026] 127.0.0.1:55954 Closing
+[Mon Jun  8 21:29:02 2026] 127.0.0.1:50737 Accepted
+[Mon Jun  8 21:29:02 2026] 127.0.0.1:64652 Accepted
+[Mon Jun  8 21:29:02 2026] 127.0.0.1:50737 [200]: GET /assets/style.css
+[Mon Jun  8 21:29:02 2026] 127.0.0.1:64652 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:29:02 2026] 127.0.0.1:64652 Closing
+[Mon Jun  8 21:29:03 2026] 127.0.0.1:50737 Closing
+[Mon Jun  8 21:29:03 2026] 127.0.0.1:56954 Accepted
+[Mon Jun  8 21:29:03 2026] 127.0.0.1:56954 Closing
+[Mon Jun  8 21:29:04 2026] 127.0.0.1:54179 Accepted
+[Mon Jun  8 21:29:04 2026] 127.0.0.1:54179 Closing
+[Mon Jun  8 21:29:32 2026] 127.0.0.1:55287 Accepted
+[Mon Jun  8 21:29:32 2026] 127.0.0.1:55211 Accepted
+[Mon Jun  8 21:29:32 2026] 127.0.0.1:55287 Closing
+[Mon Jun  8 21:29:32 2026] 127.0.0.1:55211 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:51179 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:54476 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:51179 [200]: GET /game/
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:51179 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:54476 [200]: GET /assets/style.css
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:55570 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:64659 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:55570 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:60007 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:64659 [200]: GET /gamepix.js
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:60007 [200]: GET /game/js/game.js
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:54476 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:55570 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:64659 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:60007 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:63715 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:63715 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:63715 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:55359 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:54110 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:55359 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:54110 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:65486 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:60187 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:65486 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:57600 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:60187 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:57686 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:57600 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:57686 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:58878 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:58878 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:64342 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:64342 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:64409 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:51224 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:64409 [200]: GET /game/favicon.ico
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:51224 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:64409 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:53512 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:53512 Closing
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:58540 Accepted
+[Mon Jun  8 21:29:33 2026] 127.0.0.1:58540 Closing
+[Mon Jun  8 21:29:34 2026] 127.0.0.1:60591 Accepted
+[Mon Jun  8 21:29:34 2026] 127.0.0.1:60591 Closing
+[Mon Jun  8 21:29:34 2026] 127.0.0.1:54728 Accepted
+[Mon Jun  8 21:29:34 2026] 127.0.0.1:54728 Closing
+[Mon Jun  8 21:29:34 2026] 127.0.0.1:53150 Accepted
+[Mon Jun  8 21:29:34 2026] 127.0.0.1:53150 Closing
+[Mon Jun  8 21:29:34 2026] 127.0.0.1:52636 Accepted
+[Mon Jun  8 21:29:34 2026] 127.0.0.1:52636 Closing
+[Mon Jun  8 21:29:35 2026] 127.0.0.1:54582 Accepted
+[Mon Jun  8 21:29:35 2026] 127.0.0.1:54582 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:29:35 2026] 127.0.0.1:54582 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:57154 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:57154 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:57154 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:50745 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:60563 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:50745 [200]: GET /game/?inspectfs=1
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:50745 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:60563 [200]: GET /game/?inspectfs=1
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:60563 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:64882 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:64882 [200]: GET /assets/style.css
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:52322 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:64114 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:52322 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:64114 [200]: GET /gamepix.js
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:52828 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:52828 [200]: GET /game/js/game.js
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:64882 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:52322 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:64114 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:52828 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:58676 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:58676 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:58676 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:50601 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:50601 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:59829 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:50403 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:59363 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:59829 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:50403 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:62049 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:59363 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:62049 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:54108 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:54108 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:62719 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:62719 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:55701 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:55701 Closing
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:63765 Accepted
+[Mon Jun  8 21:37:30 2026] 127.0.0.1:63765 Closing
+[Mon Jun  8 21:37:31 2026] 127.0.0.1:60162 Accepted
+[Mon Jun  8 21:37:31 2026] 127.0.0.1:60162 Closing
+[Mon Jun  8 21:37:31 2026] 127.0.0.1:60878 Accepted
+[Mon Jun  8 21:37:31 2026] 127.0.0.1:60878 Closing
+[Mon Jun  8 21:37:31 2026] 127.0.0.1:62406 Accepted
+[Mon Jun  8 21:37:31 2026] 127.0.0.1:49723 Accepted
+[Mon Jun  8 21:37:31 2026] 127.0.0.1:62406 Closing
+[Mon Jun  8 21:37:31 2026] 127.0.0.1:49723 Closing
+[Mon Jun  8 21:37:34 2026] 127.0.0.1:58078 Accepted
+[Mon Jun  8 21:37:34 2026] 127.0.0.1:58078 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:37:34 2026] 127.0.0.1:58078 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:57931 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:57931 [200]: GET /game/?fslog=1780942145667
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:64096 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:57931 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:64096 [200]: GET /game/?fslog=1780942145667
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:64096 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:61770 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:58391 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:62727 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:61770 [200]: GET /assets/style.css
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:58391 [200]: GET /game/gamepix-loader.js
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:62727 [200]: GET /gamepix.js
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:58391 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:62727 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:61770 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:55047 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:59615 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:55047 [200]: GET /game/js/game.js
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:59615 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:55047 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:59615 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:62141 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:64008 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:62141 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:64008 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:59698 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:59698 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:60187 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:60187 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:55671 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:55671 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:58508 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:58508 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:51674 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:51674 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:65456 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:65456 Closing
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:59227 Accepted
+[Mon Jun  8 21:39:05 2026] 127.0.0.1:59227 Closing
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:53698 Accepted
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:53698 Closing
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:59452 Accepted
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:59452 Closing
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:55188 Accepted
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:50711 Accepted
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:55188 Closing
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:50711 Closing
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:60704 Accepted
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:60704 [200]: GET /game/sw-game.js
+[Mon Jun  8 21:39:07 2026] 127.0.0.1:60704 Closing
+[Mon Jun  8 21:45:41 2026] 127.0.0.1:59994 Accepted
+[Mon Jun  8 21:45:41 2026] 127.0.0.1:62687 Accepted
+[Mon Jun  8 21:45:41 2026] 127.0.0.1:59994 [200]: GET /assets/style.css
+[Mon Jun  8 21:45:41 2026] 127.0.0.1:62687 [200]: GET /game/manifest-game.json
+[Mon Jun  8 21:45:41 2026] 127.0.0.1:62687 Closing
+[Mon Jun  8 21:45:41 2026] 127.0.0.1:59994 Closing
+[Mon Jun  8 21:45:41 2026] 127.0.0.1:64901 Accepted
+[Mon Jun  8 21:45:41 2026] 127.0.0.1:64901 Closing
+[Mon Jun  8 21:45:42 2026] 127.0.0.1:56142 Accepted
+[Mon Jun  8 21:45:42 2026] 127.0.0.1:56142 Closing

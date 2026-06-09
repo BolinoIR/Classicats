@@ -1,0 +1,115 @@
+#pragma include(utils/preferences.vert.incl)
+
+uniform highp float u_time;
+uniform mediump vec2 u_screenSize;
+uniform mediump vec2 u_screenPixelSize;
+
+uniform highp mat3 u_transform;
+uniform highp mat3 u_anchorTransform;
+attribute vec2 a_position;
+varying vec2 v_position;
+varying vec2 v_screenPosition;
+varying vec2 v_anchorPosition;
+
+#ifdef WHOLE_COLORED
+    uniform lowp vec4 u_color;
+#endif
+
+#ifdef TEXTURED
+    attribute vec2 a_texCoord;
+    varying vec2 v_texCoord;
+
+    uniform mediump vec2 u_textureSize;
+    uniform mediump vec2 u_texturePixelSize;
+#endif
+
+#ifdef VERTEX_COLORED
+    attribute lowp vec4 a_color;
+#endif
+
+#if defined(WHOLE_COLORED) || defined(VERTEX_COLORED)
+    varying lowp vec4 v_color; // default color from attribute
+    varying lowp vec4 v_calculatedColor; // final color from attribute and uniform
+#endif
+
+#pragma include(utils/colorUtils.incl)
+
+// sources
+lowp vec4 getWholeColor() {
+    #if defined(WHOLE_COLORED) && defined(WHOLE_COLOR_NEED_PREMULTIPLY_ALPHA)
+        return premultiplyAlpha(u_color);
+    #elif defined(WHOLE_COLORED)
+        return u_color;
+    #else
+        return vec4(1, 1, 1, 1);
+    #endif
+}
+
+lowp vec4 getVertexColor() {
+    #if defined(VERTEX_COLORED) && defined(VERTEX_COLOR_NEED_PREMULTIPLY_ALPHA)
+        return premultiplyAlpha(a_color);
+    #elif defined(VERTEX_COLORED)
+        return a_color;
+    #else
+        return vec4(1, 1, 1, 1);
+    #endif
+}
+
+lowp vec4 getColor() {
+    return getWholeColor() * getVertexColor();
+}
+
+vec2 getTexCoord() {
+    #ifdef TEXTURED
+        return a_texCoord;
+    #else
+        return vec2(0, 0);
+    #endif
+}
+
+vec2 getTextureSize() {
+    #ifdef TEXTURED
+        return u_textureSize;
+    #else
+        return vec2(1, 1);
+    #endif
+}
+
+vec2 getTexturePixelSize() {
+    #ifdef TEXTURED
+        return u_texturePixelSize;
+    #else
+        return vec2(1, 1);
+    #endif
+}
+
+vec4 getScreenPosition() {
+    return vec4(u_transform * vec3(a_position, 1.0), 1.0);
+}
+
+void updateScreenPosition() {
+    v_position = a_position;
+    gl_Position = getScreenPosition();
+    v_screenPosition = gl_Position.xy;
+    v_anchorPosition = (u_anchorTransform * vec3(v_screenPosition, 1.0)).xy;
+}
+
+void updateTexCoord() {
+    #ifdef TEXTURED
+        v_texCoord = getTexCoord();
+    #endif
+}
+
+void updateColor() {
+    #if defined(WHOLE_COLORED) || defined(VERTEX_COLORED)
+        v_color = getVertexColor();
+        v_calculatedColor = getWholeColor() * v_color;
+    #endif
+}
+
+void defaultMain()
+{
+    updateScreenPosition();
+    updateColor();
+    updateTexCoord();
+}

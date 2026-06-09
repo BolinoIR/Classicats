@@ -1,0 +1,677 @@
+[Tue Jun  9 10:53:37 2026] PHP 8.5.7 Development Server (http://127.0.0.1:8000) started
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:50292 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:50292 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:50292 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:57499 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:63296 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:57499 [200]: GET /game/
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:57499 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:51146 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:60918 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:63296 [200]: GET /game/gamepix-loader.js
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:51146 [200]: GET /gamepix.js
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:58266 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:60918 [200]: GET /game/js/game.js
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:58266 [200]: GET /game/manifest-game.json
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:63296 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:51146 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:60918 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:58266 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:53150 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:53150 [200]: GET /game/favicon.ico
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:59202 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:59202 [200]: GET /assets/icons/homescreen144.png
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:59342 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:53150 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:59342 [200]: GET /game/sw-game.js
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:59202 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:59342 Closing
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:53932 Accepted
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:53932 [200]: GET /offline.html
+[Tue Jun  9 10:54:09 2026] 127.0.0.1:53932 Closing
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:59190 Accepted
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:59190 Closing
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:55016 Accepted
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:55016 Closing
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:56172 Accepted
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:54225 Accepted
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:56172 [200]: GET /game/bin-standalone.js
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:50624 Accepted
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:54225 [200]: GET /game/bin-standalone.mem.js
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:64880 Accepted
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:50624 [200]: GET /game/bin.data.startup._.js
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:64880 [200]: GET /game/bin.data.startup.js
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:64880 Closing
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:54225 Closing
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:50624 Closing
+[Tue Jun  9 10:54:10 2026] 127.0.0.1:56172 Closing
+[Tue Jun  9 10:54:11 2026] 127.0.0.1:64996 Accepted
+[Tue Jun  9 10:54:11 2026] 127.0.0.1:49267 Accepted
+[Tue Jun  9 10:54:11 2026] 127.0.0.1:64996 [200]: GET /game/bin.data.rest._.js
+[Tue Jun  9 10:54:11 2026] 127.0.0.1:49267 [200]: GET /game/bin.data.rest.js
+[Tue Jun  9 10:54:11 2026] 127.0.0.1:49267 Closing
+[Tue Jun  9 10:54:11 2026] 127.0.0.1:64996 Closing
+[Tue Jun  9 10:54:11 2026] 127.0.0.1:62376 Accepted
+[Tue Jun  9 10:54:11 2026] 127.0.0.1:62376 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:59535 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:59535 [200]: GET /game/async/hud_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:59535 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:50458 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:50458 [200]: GET /game/async/icons_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:50458 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64860 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64860 [200]: GET /game/async/fx_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64860 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:54544 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:54544 [200]: GET /game/async/emblems_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:54544 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:59507 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:59507 [200]: GET /game/async/popup_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:59507 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:55802 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:55802 [200]: GET /game/async/buttons_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:55802 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:65023 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:65023 [200]: GET /game/async/shop_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:65023 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:56166 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:56166 [200]: GET /game/async/offers_plate_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:56166 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:52346 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:52346 [200]: GET /game/async/shared_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:52346 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64551 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64551 [200]: GET /game/async/wheel_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64551 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:62133 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:62133 [200]: GET /game/async/sticky_wheel_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:62133 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64831 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64831 [200]: GET /game/async/drill_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64831 Closing
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64077 Accepted
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64077 [200]: GET /game/async/drill_long_640_960.raw
+[Tue Jun  9 10:54:12 2026] 127.0.0.1:64077 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52201 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52201 [200]: GET /game/async/chainsaw_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52201 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:54561 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:54561 [200]: GET /game/async/saw_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:54561 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:64988 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:64988 [200]: GET /game/async/impulse_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:64988 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52133 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52133 [200]: GET /game/async/autoheal_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52133 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:61917 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:61917 [200]: GET /game/async/gun_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:61917 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:58126 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:58126 [200]: GET /game/async/shotgun_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:58126 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57177 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57177 [200]: GET /game/async/balloon_gun_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57177 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57174 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57174 [200]: GET /game/async/beam_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57174 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53632 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53632 [200]: GET /game/async/body_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53632 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:54958 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:54958 [200]: GET /game/async/ingame_cats_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:54958 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:62842 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:62842 [200]: GET /game/async/ingame_cats_hats_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:62842 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52955 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52955 [200]: GET /game/async/ingame_cats_suits_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52955 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:49670 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:49670 [200]: GET /game/async/body_stickers_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:49670 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:56416 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:56416 [200]: GET /game/async/main_screen_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:56416 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52053 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52053 [200]: GET /game/async/main_screen_bgr_640_960.jpeg
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52053 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57517 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57517 [200]: GET /game/async/skills_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57517 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57959 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57959 [200]: GET /game/async/skills_icons_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:57959 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:51963 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:62543 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:51963 [200]: GET /game/async/tony_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:62543 [200]: GET /game/async/zepto_logo_bubbles.mp3
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:51963 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:62543 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53318 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53318 [200]: GET /game/async/settings_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53318 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53591 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53591 [200]: GET /game/async/gang_and_leaderboards_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53591 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:61746 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:61746 [200]: GET /game/async/edit_screen_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:61746 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:59273 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:59273 [200]: GET /game/async/defence_logs_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:59273 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52858 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52858 [200]: GET /game/async/leagues_buttons_640_960.raw
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:52858 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53506 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53506 [200]: GET /game/manifest-game.json
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:53506 Closing
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:60694 Accepted
+[Tue Jun  9 10:54:13 2026] 127.0.0.1:60694 Closing
+[Tue Jun  9 10:54:15 2026] 127.0.0.1:64692 Accepted
+[Tue Jun  9 10:54:15 2026] 127.0.0.1:64692 Closing
+[Tue Jun  9 10:54:20 2026] 127.0.0.1:62541 Accepted
+[Tue Jun  9 10:54:20 2026] 127.0.0.1:62541 [200]: GET /game/async/popup.mp3
+[Tue Jun  9 10:54:20 2026] 127.0.0.1:62541 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:63016 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:63016 [200]: GET /game/
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:63016 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:53079 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:55575 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:64719 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:53079 [200]: GET /game/gamepix-loader.js
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:55575 [200]: GET /gamepix.js
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:64719 [200]: GET /game/js/game.js
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:53079 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:55575 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:64719 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:50138 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:50138 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:53846 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:53846 [200]: GET /game/manifest-game.json
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:53846 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:61412 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:61412 [200]: GET /game/favicon.ico
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:52630 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:52630 [200]: GET /assets/icons/homescreen144.png
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:61412 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:52630 Closing
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:55562 Accepted
+[Tue Jun  9 10:54:57 2026] 127.0.0.1:55562 Closing
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:61451 Accepted
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:61451 Closing
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:64728 Accepted
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:64728 Closing
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:62726 Accepted
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:62726 [200]: GET /game/bin-standalone.js
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:61375 Accepted
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:61375 [200]: GET /game/bin-standalone.mem.js
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:54554 Accepted
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:54554 [200]: GET /game/bin.data.startup._.js
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:49671 Accepted
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:49671 [200]: GET /game/bin.data.startup.js
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:49671 Closing
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:61375 Closing
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:54554 Closing
+[Tue Jun  9 10:54:59 2026] 127.0.0.1:62726 Closing
+[Tue Jun  9 10:55:01 2026] 127.0.0.1:65324 Accepted
+[Tue Jun  9 10:55:01 2026] 127.0.0.1:53912 Accepted
+[Tue Jun  9 10:55:01 2026] 127.0.0.1:65324 [200]: GET /game/bin.data.rest._.js
+[Tue Jun  9 10:55:01 2026] 127.0.0.1:53912 [200]: GET /game/bin.data.rest.js
+[Tue Jun  9 10:55:01 2026] 127.0.0.1:53912 Closing
+[Tue Jun  9 10:55:01 2026] 127.0.0.1:65324 Closing
+[Tue Jun  9 10:55:11 2026] 127.0.0.1:60826 Accepted
+[Tue Jun  9 10:55:11 2026] 127.0.0.1:60826 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62959 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62959 [200]: GET /game/async/hud_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62959 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59477 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59477 [200]: GET /game/async/icons_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59477 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60279 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60279 [200]: GET /game/async/fx_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60279 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:55040 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:55040 [200]: GET /game/async/emblems_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:55040 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54966 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54966 [200]: GET /game/async/popup_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54966 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:64262 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:64262 [200]: GET /game/async/buttons_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:64262 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62879 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62879 [200]: GET /game/async/shop_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62879 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49276 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49276 [200]: GET /game/async/offers_plate_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49276 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53915 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53915 [200]: GET /game/async/shared_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53915 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:65036 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:65036 [200]: GET /game/async/wheel_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:65036 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56130 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56130 [200]: GET /game/async/sticky_wheel_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56130 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56547 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56547 [200]: GET /game/async/drill_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56547 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53227 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53227 [200]: GET /game/async/drill_long_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53227 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62975 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62975 [200]: GET /game/async/chainsaw_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:62975 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:65329 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:65329 [200]: GET /game/async/saw_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:65329 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61083 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61083 [200]: GET /game/async/impulse_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61083 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61784 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61784 [200]: GET /game/async/autoheal_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61784 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49223 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49223 [200]: GET /game/async/gun_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49223 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:64931 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:64931 [200]: GET /game/async/shotgun_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:64931 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60585 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60585 [200]: GET /game/async/balloon_gun_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60585 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54703 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54703 [200]: GET /game/async/beam_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54703 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60721 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60721 [200]: GET /game/async/body_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60721 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49984 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49984 [200]: GET /game/async/ingame_cats_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:49984 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54208 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54208 [200]: GET /game/async/ingame_cats_hats_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54208 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:58359 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:58359 [200]: GET /game/async/ingame_cats_suits_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:58359 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59018 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59018 [200]: GET /game/async/body_stickers_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59018 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61305 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61305 [200]: GET /game/async/main_screen_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61305 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53942 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53942 [200]: GET /game/async/main_screen_bgr_640_960.jpeg
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:53942 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56831 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56831 [200]: GET /game/async/skills_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61310 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61310 [200]: GET /game/async/zepto_logo_bubbles.mp3
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:56831 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61310 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59006 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59006 [200]: GET /game/async/skills_icons_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:59006 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:52417 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:52417 [200]: GET /game/async/tony_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:52417 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:55338 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:55338 [200]: GET /game/async/settings_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:55338 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61260 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61260 [200]: GET /game/async/gang_and_leaderboards_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61260 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61911 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61911 [200]: GET /game/async/edit_screen_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:61911 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54173 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54173 [200]: GET /game/async/defence_logs_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:54173 Closing
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60994 Accepted
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60994 [200]: GET /game/async/leagues_buttons_640_960.raw
+[Tue Jun  9 10:55:12 2026] 127.0.0.1:60994 Closing
+[Tue Jun  9 10:55:21 2026] 127.0.0.1:61021 Accepted
+[Tue Jun  9 10:55:21 2026] 127.0.0.1:61021 [200]: GET /game/async/popup.mp3
+[Tue Jun  9 10:55:21 2026] 127.0.0.1:61021 Closing
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:64147 Accepted
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:64147 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:64147 Closing
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:49314 Accepted
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:50172 Accepted
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:49314 [200]: GET /game/
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:49314 Closing
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:55959 Accepted
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:62221 Accepted
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:50172 [200]: GET /game/gamepix-loader.js
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:55959 [200]: GET /gamepix.js
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:49736 Accepted
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:62221 [200]: GET /game/js/game.js
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:49736 [200]: GET /game/manifest-game.json
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:50172 Closing
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:55959 Closing
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:62221 Closing
+[Tue Jun  9 10:57:45 2026] 127.0.0.1:49736 Closing
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:52430 Accepted
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:58954 Accepted
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:52430 [200]: GET /game/favicon.ico
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:58954 [200]: GET /assets/icons/homescreen144.png
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:52430 Closing
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:52692 Accepted
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:58954 Closing
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:52692 [200]: GET /game/sw-game.js
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:52692 Closing
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:49983 Accepted
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:49983 [200]: GET /offline.html
+[Tue Jun  9 10:57:46 2026] 127.0.0.1:49983 Closing
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:62978 Accepted
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:62978 Closing
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:65341 Accepted
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:65341 Closing
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:54913 Accepted
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:51800 Accepted
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:54913 [200]: GET /game/bin-standalone.js
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:54787 Accepted
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:51800 [200]: GET /game/bin-standalone.mem.js
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:64843 Accepted
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:54787 [200]: GET /game/bin.data.startup._.js
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:64843 [200]: GET /game/bin.data.startup.js
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:64843 Closing
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:51800 Closing
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:54787 Closing
+[Tue Jun  9 10:57:47 2026] 127.0.0.1:54913 Closing
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:60795 Accepted
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:60795 [200]: GET /game/bin.data.rest._.js
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:57886 Accepted
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:57886 [200]: GET /game/bin.data.rest.js
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:57886 Closing
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:60795 Closing
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:56493 Accepted
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:56493 Closing
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:61459 Accepted
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:61459 [200]: GET /game/manifest-game.json
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:61459 Closing
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:51401 Accepted
+[Tue Jun  9 10:57:48 2026] 127.0.0.1:51401 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:60826 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:60826 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:50738 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:50738 [200]: GET /game/async/hud_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:50738 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57352 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57352 [200]: GET /game/async/icons_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57352 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55676 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55676 [200]: GET /game/async/fx_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55676 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53767 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53767 [200]: GET /game/async/emblems_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53767 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:59986 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:59986 [200]: GET /game/async/popup_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:59986 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64875 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64875 [200]: GET /game/async/buttons_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64875 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56046 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56046 [200]: GET /game/async/shop_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56046 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53080 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53080 [200]: GET /game/async/offers_plate_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53080 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55849 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55849 [200]: GET /game/async/shared_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55849 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55358 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55358 [200]: GET /game/async/wheel_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:55358 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56429 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56429 [200]: GET /game/async/sticky_wheel_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56429 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:54572 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:54572 [200]: GET /game/async/drill_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:54572 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57491 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57491 [200]: GET /game/async/drill_long_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57491 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:58971 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:58971 [200]: GET /game/async/chainsaw_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:58971 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56479 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56479 [200]: GET /game/async/saw_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56479 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:58957 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:58957 [200]: GET /game/async/impulse_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:58957 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:60313 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:60313 [200]: GET /game/async/autoheal_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:60313 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56943 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56943 [200]: GET /game/async/gun_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56943 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64403 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64403 [200]: GET /game/async/shotgun_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64403 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:62029 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:62029 [200]: GET /game/async/balloon_gun_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:62029 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52904 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52904 [200]: GET /game/async/beam_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52904 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:51588 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:51588 [200]: GET /game/async/body_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:51588 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52870 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52870 [200]: GET /game/async/ingame_cats_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52870 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57725 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57725 [200]: GET /game/async/ingame_cats_hats_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57725 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56918 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56918 [200]: GET /game/async/ingame_cats_suits_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:56918 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52894 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52894 [200]: GET /game/async/body_stickers_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52894 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52400 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52400 [200]: GET /game/async/main_screen_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52400 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52536 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52536 [200]: GET /game/async/main_screen_bgr_640_960.jpeg
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52536 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52715 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52715 [200]: GET /game/async/skills_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:52715 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57754 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57754 [200]: GET /game/async/skills_icons_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:57754 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:63781 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:63781 [200]: GET /game/async/tony_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:63781 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:49712 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:49712 [200]: GET /game/async/settings_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:49712 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64542 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64542 [200]: GET /game/async/gang_and_leaderboards_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:64542 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:63913 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:63913 [200]: GET /game/async/edit_screen_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:63913 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53735 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53735 [200]: GET /game/async/defence_logs_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:53735 Closing
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:62758 Accepted
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:62758 [200]: GET /game/async/leagues_buttons_640_960.raw
+[Tue Jun  9 10:57:50 2026] 127.0.0.1:62758 Closing
+[Tue Jun  9 10:57:51 2026] 127.0.0.1:60356 Accepted
+[Tue Jun  9 10:57:51 2026] 127.0.0.1:60356 [200]: GET /game/async/zepto_logo_bubbles.mp3
+[Tue Jun  9 10:57:51 2026] 127.0.0.1:60356 Closing
+[Tue Jun  9 10:57:57 2026] 127.0.0.1:61116 Accepted
+[Tue Jun  9 10:57:57 2026] 127.0.0.1:61116 [200]: GET /game/async/popup.mp3
+[Tue Jun  9 10:57:57 2026] 127.0.0.1:61116 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:55075 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:55075 [200]: GET /game/
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:63906 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:55075 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:63111 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:62000 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:63906 [200]: GET /game/gamepix-loader.js
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:63111 [200]: GET /gamepix.js
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:62000 [200]: GET /game/js/game.js
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:63906 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:63111 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:62000 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:55093 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:55093 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:60552 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:60552 [200]: GET /game/manifest-game.json
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:60552 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:54662 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:54662 [200]: GET /game/favicon.ico
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:54662 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:57190 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:57190 [200]: GET /assets/icons/homescreen144.png
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:54677 Accepted
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:54677 Closing
+[Tue Jun  9 10:58:21 2026] 127.0.0.1:57190 Closing
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:63733 Accepted
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:63733 Closing
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:62832 Accepted
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:62832 Closing
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:58574 Accepted
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:58574 [200]: GET /game/bin-standalone.js
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:51731 Accepted
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:50925 Accepted
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:51731 [200]: GET /game/bin-standalone.mem.js
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:50925 [200]: GET /game/bin.data.startup._.js
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:51785 Accepted
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:51785 [200]: GET /game/bin.data.startup.js
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:51785 Closing
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:51731 Closing
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:50925 Closing
+[Tue Jun  9 10:58:22 2026] 127.0.0.1:58574 Closing
+[Tue Jun  9 10:58:23 2026] 127.0.0.1:59312 Accepted
+[Tue Jun  9 10:58:23 2026] 127.0.0.1:61168 Accepted
+[Tue Jun  9 10:58:23 2026] 127.0.0.1:59312 [200]: GET /game/bin.data.rest._.js
+[Tue Jun  9 10:58:23 2026] 127.0.0.1:61168 [200]: GET /game/bin.data.rest.js
+[Tue Jun  9 10:58:23 2026] 127.0.0.1:61168 Closing
+[Tue Jun  9 10:58:23 2026] 127.0.0.1:59312 Closing
+[Tue Jun  9 10:58:23 2026] 127.0.0.1:61236 Accepted
+[Tue Jun  9 10:58:23 2026] 127.0.0.1:61236 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50398 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50398 [200]: GET /game/async/hud_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50398 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:49670 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:49670 [200]: GET /game/async/icons_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:49670 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:49855 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:49855 [200]: GET /game/async/fx_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:49855 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:55388 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:55388 [200]: GET /game/async/emblems_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:55388 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50303 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50303 [200]: GET /game/async/popup_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50303 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50509 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50509 [200]: GET /game/async/buttons_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50509 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60028 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60028 [200]: GET /game/async/shop_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60028 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63803 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63803 [200]: GET /game/async/offers_plate_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63803 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58386 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58386 [200]: GET /game/async/shared_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58386 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58636 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58636 [200]: GET /game/async/wheel_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58636 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:61070 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:61070 [200]: GET /game/async/sticky_wheel_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:61070 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52512 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52512 [200]: GET /game/async/drill_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52512 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:62291 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:62291 [200]: GET /game/async/drill_long_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:62291 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:65391 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:65391 [200]: GET /game/async/chainsaw_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:65391 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:51718 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:51718 [200]: GET /game/async/saw_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:51718 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50970 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50970 [200]: GET /game/async/impulse_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50970 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50557 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50557 [200]: GET /game/async/autoheal_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50557 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:51764 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:51764 [200]: GET /game/async/gun_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:51764 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:53847 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:53847 [200]: GET /game/async/shotgun_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:53847 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58429 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58429 [200]: GET /game/async/balloon_gun_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:58429 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60633 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60633 [200]: GET /game/async/beam_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60633 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50991 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50991 [200]: GET /game/async/body_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50991 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50233 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50233 [200]: GET /game/async/ingame_cats_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50233 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50331 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50331 [200]: GET /game/async/ingame_cats_hats_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50331 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:62331 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:62331 [200]: GET /game/async/ingame_cats_suits_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:62331 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60485 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60485 [200]: GET /game/async/body_stickers_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:60485 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:54717 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:54717 [200]: GET /game/async/main_screen_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:54717 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63260 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63260 [200]: GET /game/async/main_screen_bgr_640_960.jpeg
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63260 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:53817 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:53817 [200]: GET /game/async/skills_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:53817 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52125 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52125 [200]: GET /game/async/skills_icons_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:57875 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:57875 [200]: GET /game/async/zepto_logo_bubbles.mp3
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52125 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:57875 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52429 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52429 [200]: GET /game/async/tony_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:52429 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63898 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63898 [200]: GET /game/async/settings_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:63898 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:59719 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:59719 [200]: GET /game/async/gang_and_leaderboards_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:59719 Closing
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50517 Accepted
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50517 [200]: GET /game/async/edit_screen_640_960.raw
+[Tue Jun  9 10:58:24 2026] 127.0.0.1:50517 Closing
+[Tue Jun  9 10:58:25 2026] 127.0.0.1:52647 Accepted
+[Tue Jun  9 10:58:25 2026] 127.0.0.1:52647 [200]: GET /game/async/defence_logs_640_960.raw
+[Tue Jun  9 10:58:25 2026] 127.0.0.1:52647 Closing
+[Tue Jun  9 10:58:25 2026] 127.0.0.1:58581 Accepted
+[Tue Jun  9 10:58:25 2026] 127.0.0.1:58581 [200]: GET /game/async/leagues_buttons_640_960.raw
+[Tue Jun  9 10:58:25 2026] 127.0.0.1:58581 Closing
+[Tue Jun  9 10:58:30 2026] 127.0.0.1:58730 Accepted
+[Tue Jun  9 10:58:30 2026] 127.0.0.1:58730 [200]: GET /game/async/popup.mp3
+[Tue Jun  9 10:58:30 2026] 127.0.0.1:58730 Closing

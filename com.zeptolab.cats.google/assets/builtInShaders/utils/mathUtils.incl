@@ -1,0 +1,50 @@
+const float PI = 3.1415926535897932384626433832795;
+
+highp float rand(vec3 seed)
+{
+    highp float a = 12.9898;
+    highp float b = 78.233;
+    highp float c = 0.653;
+    highp float d = 43758.5453;
+    highp float dt = dot(seed, vec3(a, b, c));
+    highp float sn = mod(dt, PI);
+    return fract(sin(sn) * d);
+}
+
+vec4 lerp(vec4 a, vec4 b, float t) {
+    return a + (b - a) * t;
+}
+
+vec3 lerp(vec3 a, vec3 b, float t) {
+    return a + (b - a) * t;
+}
+
+vec2 lerp(vec2 a, vec2 b, float t) {
+    return a + (b - a) * t;
+}
+
+float lerp(float a, float b, float t) {
+    return a + (b - a) * t;
+}
+
+vec2 random2(vec2 seed){
+    vec2 value = vec2(
+        dot(seed, vec2(127.1,311.7)),
+        dot(seed, vec2(269.5,183.3))
+    );
+
+    return -1.0 + 2.0 * fract(sin(value) * 43758.5453123);
+}
+
+// Value Noise by Inigo Quilez - iq/2013
+float valueNoise(vec2 seed) {
+    vec2 i = floor(seed);
+    vec2 f = fract(seed);
+
+    vec2 u = f * f * (3.0 - 2.0 * f);
+
+    return mix( mix( dot( random2(i + vec2(0.0,0.0) ), f - vec2(0.0,0.0) ),
+                     dot( random2(i + vec2(1.0,0.0) ), f - vec2(1.0,0.0) ), u.x),
+                mix( dot( random2(i + vec2(0.0,1.0) ), f - vec2(0.0,1.0) ),
+                     dot( random2(i + vec2(1.0,1.0) ), f - vec2(1.0,1.0) ), u.x), u.y);
+}

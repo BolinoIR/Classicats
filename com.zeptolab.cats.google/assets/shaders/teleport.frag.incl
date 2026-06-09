@@ -1,0 +1,10 @@
+#pragma include(builtInShaders/uber.frag.incl)
+
+void setTeleportColor(lowp vec4 tone, lowp float factor)
+{
+	lowp vec4 fullColor = getColor();        
+    gl_FragColor.rgb =  fullColor.a * tone.rgb;
+    gl_FragColor.rgb = fullColor.rgb + (gl_FragColor.rgb - fullColor.rgb) * factor;
+    gl_FragColor.a = fullColor.a;
+    updateMask();
+}

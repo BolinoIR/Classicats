@@ -1,0 +1,12 @@
+#if defined(SHADER_DESKTOP) || defined(SHADER_QT5)
+    #define lowp
+    #define mediump
+    #define highp
+#else
+    // highp is optional in GLSL ES 1.00, but not in GLSL ES 3.00
+    #if !defined(GL_FRAGMENT_PRECISION_HIGH) && defined(GL_ES) && __VERSION__ == 100
+        #define highp mediump
+    #endif
+
+    precision mediump float;
+#endif

@@ -1,0 +1,13 @@
+{
+    "hotReload": false,
+    "directories": [
+        {
+            "absolute": "shaders/",
+            "relative": "shaders/"
+        },
+        {
+            "absolute": "builtInShaders/",
+            "relative": "builtInShaders/"
+        }
+    ]
+}

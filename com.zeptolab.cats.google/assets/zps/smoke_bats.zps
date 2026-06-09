@@ -1,0 +1,492 @@
+{
+    "layers" : 
+    [
+        {
+            "blending" : 4,
+            "colorsSequence" : 
+            [
+                {
+                    "percent" : 0.0,
+                    "rangedColor" : 
+                    {
+                        "a" : 
+                        {
+                            "value" : 0.7450980544090271
+                        },
+                        "b" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "g" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "r" : 
+                        {
+                            "value" : 1.0
+                        }
+                    }
+                },
+                {
+                    "percent" : 1.0,
+                    "rangedColor" : 
+                    {
+                        "a" : 
+                        {
+                            "value" : 0.86666667461395264
+                        },
+                        "b" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "g" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "r" : 
+                        {
+                            "value" : 1.0
+                        }
+                    }
+                }
+            ],
+            "emissionDensity" : 
+            {
+                "value" : 72.950004577636719
+            },
+            "emissionSize" : 
+            {
+                "a0" : 
+                {
+                    "x" : 
+                    {
+                        "value" : 64.0
+                    },
+                    "y" : 
+                    {
+                        "value" : 63.0
+                    }
+                }
+            },
+            "emissionTime" : 
+            {
+                "value" : -1.0
+            },
+            "name" : "smoke_v1_copy",
+            "particleInitialDirection" : 
+            {
+                "delta" : 359.0,
+                "value" : -274.0
+            },
+            "particleInitialSpeed" : 
+            {
+                "value" : 37.0
+            },
+            "rangedFormulaColor" : 
+            {
+                "a0" : 
+                {
+                    "a" : 
+                    {
+                        "value" : 1.0
+                    },
+                    "b" : 
+                    {
+                        "value" : 1.0
+                    },
+                    "g" : 
+                    {
+                        "value" : 1.0
+                    },
+                    "r" : 
+                    {
+                        "value" : 1.0
+                    }
+                }
+            },
+            "rangedParticleParams" : 
+            {
+                "colorsSequence" : 
+                [
+                    {
+                        "percent" : 0.0,
+                        "rangedColor" : 
+                        {
+                            "b" : 
+                            {
+                                "delta" : -0.019607843831181526,
+                                "value" : 0.070588238537311554
+                            },
+                            "g" : 
+                            {
+                                "delta" : 0.29803922772407532,
+                                "value" : 0.70196080207824707
+                            },
+                            "r" : 
+                            {
+                                "delta" : -0.0039215688593685627,
+                                "value" : 0.10588235408067703
+                            }
+                        }
+                    },
+                    {
+                        "percent" : 0.5,
+                        "rangedColor" : 
+                        {
+                            "a" : 
+                            {
+                                "delta" : -0.29999238252639771,
+                                "value" : 0.40000000596046448
+                            },
+                            "b" : 
+                            {
+                                "delta" : -0.019607843831181526,
+                                "value" : 0.070588238537311554
+                            },
+                            "g" : 
+                            {
+                                "delta" : 0.29803922772407532,
+                                "value" : 0.70196080207824707
+                            },
+                            "r" : 
+                            {
+                                "delta" : -0.0633249431848526,
+                                "value" : 0.16528572142124176
+                            }
+                        }
+                    },
+                    {
+                        "percent" : 1.0,
+                        "rangedColor" : 
+                        {
+                            "b" : 
+                            {
+                                "delta" : -0.019607843831181526,
+                                "value" : 0.070588238537311554
+                            },
+                            "g" : 
+                            {
+                                "delta" : 0.29803922772407532,
+                                "value" : 0.70196080207824707
+                            },
+                            "r" : 
+                            {
+                                "delta" : -0.0039215688593685627,
+                                "value" : 0.10588235408067703
+                            }
+                        }
+                    }
+                ],
+                "rangedFormulaColor" : 
+                {
+                    "a0" : 
+                    {
+                        "a" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "b" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "g" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "r" : 
+                        {
+                            "value" : 1.0
+                        }
+                    }
+                },
+                "rangedFormulaRotation" : 
+                {
+                    "a0" : 
+                    {
+                        "delta" : 360.0
+                    },
+                    "a1" : 
+                    {
+                        "delta" : 199.33000183105469,
+                        "value" : -223.13999938964844
+                    }
+                },
+                "rangedFormulaScale" : 
+                {
+                    "a0" : 
+                    {
+                        "value" : 0.59999996423721313
+                    },
+                    "a1" : 
+                    {
+                        "delta" : 1.2999999523162842,
+                        "value" : -1.2999999523162842
+                    },
+                    "a3" : 
+                    {
+                        "value" : 0.39999997615814209
+                    },
+                    "a4" : 
+                    {
+                        "value" : 1.0900000333786011
+                    }
+                },
+                "rangedImageID" : 
+                {
+                    "delta" : 1,
+                    "value" : 22
+                },
+                "rangedImageName" : [ "common/fx.psd/23", "common/fx.psd/22" ],
+                "rangedLifetime" : 
+                {
+                    "delta" : 2.4499998092651367,
+                    "value" : 1.8000000715255737
+                }
+            }
+        },
+        {
+            "colorsSequence" : 
+            [
+                {
+                    "percent" : 0.0,
+                    "rangedColor" : 
+                    {
+                        "a" : 
+                        {
+                            "value" : 0.7450980544090271
+                        },
+                        "b" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "g" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "r" : 
+                        {
+                            "value" : 1.0
+                        }
+                    }
+                },
+                {
+                    "percent" : 1.0,
+                    "rangedColor" : 
+                    {
+                        "a" : 
+                        {
+                            "value" : 0.86666667461395264
+                        },
+                        "b" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "g" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "r" : 
+                        {
+                            "value" : 1.0
+                        }
+                    }
+                }
+            ],
+            "emissionDensity" : 
+            {
+                "value" : 30.0
+            },
+            "emissionSize" : 
+            {
+                "a0" : 
+                {
+                    "x" : 
+                    {
+                        "value" : 15.0
+                    },
+                    "y" : 
+                    {
+                        "value" : 15.0
+                    }
+                }
+            },
+            "emissionTime" : 
+            {
+                "value" : -1.0
+            },
+            "name" : "smoke_v1",
+            "particleInitialDirection" : 
+            {
+                "delta" : 359.0,
+                "value" : -274.0
+            },
+            "particleInitialSpeed" : 
+            {
+                "value" : 37.0
+            },
+            "rangedFormulaColor" : 
+            {
+                "a0" : 
+                {
+                    "a" : 
+                    {
+                        "value" : 1.0
+                    },
+                    "b" : 
+                    {
+                        "value" : 1.0
+                    },
+                    "g" : 
+                    {
+                        "value" : 1.0
+                    },
+                    "r" : 
+                    {
+                        "value" : 1.0
+                    }
+                }
+            },
+            "rangedParticleParams" : 
+            {
+                "colorsSequence" : 
+                [
+                    {
+                        "percent" : 0.0,
+                        "rangedColor" : 
+                        {
+                            "b" : 
+                            {
+                                "delta" : -0.019607843831181526,
+                                "value" : 0.070588238537311554
+                            },
+                            "g" : 
+                            {
+                                "delta" : 0.29803922772407532,
+                                "value" : 0.70196080207824707
+                            },
+                            "r" : 
+                            {
+                                "delta" : -0.0039215688593685627,
+                                "value" : 0.10588235408067703
+                            }
+                        }
+                    },
+                    {
+                        "percent" : 0.5,
+                        "rangedColor" : 
+                        {
+                            "a" : 
+                            {
+                                "delta" : -0.29999238252639771,
+                                "value" : 0.40000000596046448
+                            },
+                            "b" : 
+                            {
+                                "delta" : -0.019607843831181526,
+                                "value" : 0.070588238537311554
+                            },
+                            "g" : 
+                            {
+                                "delta" : 0.29803922772407532,
+                                "value" : 0.70196080207824707
+                            },
+                            "r" : 
+                            {
+                                "delta" : -0.0633249431848526,
+                                "value" : 0.16528572142124176
+                            }
+                        }
+                    },
+                    {
+                        "percent" : 1.0,
+                        "rangedColor" : 
+                        {
+                            "b" : 
+                            {
+                                "delta" : -0.019607843831181526,
+                                "value" : 0.070588238537311554
+                            },
+                            "g" : 
+                            {
+                                "delta" : 0.29803922772407532,
+                                "value" : 0.70196080207824707
+                            },
+                            "r" : 
+                            {
+                                "delta" : -0.0039215688593685627,
+                                "value" : 0.10588235408067703
+                            }
+                        }
+                    }
+                ],
+                "rangedFormulaColor" : 
+                {
+                    "a0" : 
+                    {
+                        "a" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "b" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "g" : 
+                        {
+                            "value" : 1.0
+                        },
+                        "r" : 
+                        {
+                            "value" : 1.0
+                        }
+                    }
+                },
+                "rangedFormulaRotation" : 
+                {
+                    "a0" : 
+                    {
+                        "delta" : 360.0
+                    },
+                    "a1" : 
+                    {
+                        "delta" : 199.33000183105469,
+                        "value" : -223.13999938964844
+                    }
+                },
+                "rangedFormulaScale" : 
+                {
+                    "a0" : 
+                    {
+                        "value" : 0.59999996423721313
+                    },
+                    "a1" : 
+                    {
+                        "delta" : 1.2999999523162842,
+                        "value" : -1.2999999523162842
+                    },
+                    "a3" : 
+                    {
+                        "value" : 0.39999997615814209
+                    },
+                    "a4" : 
+                    {
+                        "value" : 1.0900000333786011
+                    }
+                },
+                "rangedImageID" : 
+                {
+                    "delta" : 1,
+                    "value" : 22
+                },
+                "rangedImageName" : [ "common/fx.psd/23", "common/fx.psd/22" ],
+                "rangedLifetime" : 
+                {
+                    "delta" : 1.2000000476837158,
+                    "value" : 1.0
+                }
+            }
+        }
+    ],
+    "name" : "",
+    "version" : 1
+}

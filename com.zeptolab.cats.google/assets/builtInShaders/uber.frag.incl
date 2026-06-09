@@ -1,0 +1,157 @@
+#pragma include(utils/preferences.frag.incl)
+
+uniform highp float u_time;
+uniform mediump vec2 u_screenSize;
+uniform mediump vec2 u_screenPixelSize;
+
+varying vec2 v_position;
+varying vec2 v_screenPosition;
+varying vec2 v_anchorPosition;
+
+#ifdef WHOLE_COLORED
+    uniform lowp vec4 u_color;
+#endif
+
+#if defined(WHOLE_COLORED) || defined(VERTEX_COLORED)
+    varying lowp vec4 v_color; // default color from attribute
+    varying lowp vec4 v_calculatedColor; // final color from attribute and uniform
+#endif
+
+#ifdef TEXTURED
+    uniform sampler2D u_texture;
+    varying highp vec2 v_texCoord;
+
+    uniform mediump vec2 u_textureSize;
+    uniform mediump vec2 u_texturePixelSize;
+
+    #ifdef TILED
+        uniform highp vec4 u_tileRect;
+    #endif
+#endif
+
+#pragma include(utils/colorUtils.incl)
+
+highp vec2 getTexCoord(highp vec2 rawTexCoord)
+{
+    #ifdef TILED
+       highp vec2 innerTexCoord = (rawTexCoord - u_tileRect.xy) / u_tileRect.zw;
+       return fract(innerTexCoord) * u_tileRect.zw + u_tileRect.xy;
+    #else
+        return rawTexCoord;
+    #endif
+}
+
+lowp vec4 getWholeColor() {
+    #if defined(WHOLE_COLORED) && defined(WHOLE_COLOR_NEED_PREMULTIPLY_ALPHA)
+        return premultiplyAlpha(u_color);
+    #elif defined(WHOLE_COLORED)
+        return u_color;
+    #else
+        return vec4(1, 1, 1, 1);
+    #endif
+}
+
+lowp vec4 getVertexColor() {
+    #if defined(VERTEX_COLORED) && defined(VERTEX_COLOR_NEED_PREMULTIPLY_ALPHA)
+        return premultiplyAlpha(v_color);
+    #elif defined(VERTEX_COLORED)
+        return v_color;
+    #else
+        return vec4(1, 1, 1, 1);
+    #endif
+}
+
+lowp vec4 getVaryingColor() {
+    #if defined(VERTEX_COLORED) || defined(WHOLE_COLORED)
+        return v_calculatedColor;
+    #else
+        return vec4(1, 1, 1, 1);
+    #endif
+}
+
+vec2 getTextureSize() {
+    #ifdef TEXTURED
+        return u_textureSize;
+    #else
+        return vec2(1, 1);
+    #endif
+}
+
+vec2 getTexturePixelSize() {
+    #ifdef TEXTURED
+        return u_texturePixelSize;
+    #else
+        return vec2(1, 1);
+    #endif
+}
+
+lowp vec4 getTextureColor(sampler2D sampler, highp vec2 rawTexCoord)
+{
+    #if defined(TEXTURED)
+        #if defined(TEXTURE_USE_ONE_CHANNEL)
+            return texture2D(sampler, getTexCoord(rawTexCoord)).rrrr;
+        #elif defined(TEXTURE_NEED_PREMULTIPY_ALPHA)
+            return premultiplyAlpha(texture2D(sampler, getTexCoord(rawTexCoord)));
+        #else
+            return texture2D(sampler, getTexCoord(rawTexCoord));
+        #endif
+    #else
+        return vec4(1, 1, 1, 1);
+    #endif
+}
+
+lowp vec4 getTextureColor(highp vec2 rawTexCoord)
+{
+    #if defined(TEXTURED)
+        return getTextureColor(u_texture, rawTexCoord);
+    #else
+        return vec4(1, 1, 1, 1);
+    #endif
+}
+
+lowp vec4 getTextureColor()
+{
+    #if defined(TEXTURED)
+        return getTextureColor(u_texture, v_texCoord);
+    #else
+        return vec4(1, 1, 1, 1);
+    #endif
+}
+
+vec2 getTexCoord()
+{
+    #ifdef TEXTURED
+        return getTexCoord(v_texCoord);
+    #else
+        return vec2(0, 0);
+    #endif
+}
+
+lowp vec4 getColor() {
+    return getVaryingColor() * getTextureColor();
+}
+
+lowp vec4 getColor(highp vec2 texCoord) {
+    return getVaryingColor() * getTextureColor(texCoord);
+}
+
+void updateColor() {
+    gl_FragColor = getColor();
+}
+
+void updateColor(highp vec2 texCoord) {
+    gl_FragColor = getColor(texCoord);
+}
+
+void updateMask() {
+    #ifdef MASKED
+        if (gl_FragColor.a < 0.04)
+            discard;
+    #endif
+}
+
+void defaultMain()
+{
+    updateColor();
+    updateMask();
+}

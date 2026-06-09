@@ -1,0 +1,9 @@
+[2026-06-08T18:36:28+00:00] Project Classicats WebSocket listening on 0.0.0.0:8080
+[2026-06-08T18:37:26+00:00] bad handshake conn=f773762701af
+[2026-06-08T18:37:27+00:00] bad handshake conn=ef58c80829fa
+[2026-06-08T18:37:27+00:00] bad handshake conn=1ec04ed9e809
+[2026-06-08T18:37:27+00:00] bad handshake conn=d693c03d647b
+[2026-06-08T18:37:28+00:00] bad handshake conn=9b397a3b67eb
+[2026-06-08T18:37:33+00:00] bad handshake conn=a9ac6de51ec1
+[2026-06-08T18:37:33+00:00] bad handshake conn=7ed7523cf173
+[2026-06-08T18:37:33+00:00] bad handshake conn=b45875404e23

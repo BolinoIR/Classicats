@@ -1,0 +1,102 @@
+{
+  "ios": {
+    "220": {
+      "number": 142,
+      "filename": "sdk_core_v142.min.js"
+    },
+    "225": {
+      "number": 142,
+      "filename": "sdk_core_v142.min.js"
+    },
+    "240": {
+      "number": 142,
+      "filename": "sdk_core_v142.min.js"
+    },
+    "274": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "284": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "315": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "317": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "322": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "324": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "330": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "343": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "353": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "362": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    }
+  },
+  "android": {
+    "315": {
+      "number": 141,
+      "filename": "sdk_core_v141.min.js"
+    },
+    "316": {
+      "number": 141,
+      "filename": "sdk_core_v141.min.js"
+    },
+    "322": {
+      "number": 141,
+      "filename": "sdk_core_v141.min.js"
+    },
+    "330": {
+      "number": 141,
+      "filename": "sdk_core_v141.min.js"
+    },
+    "403": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "406": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "435": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "436": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "440": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "451": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    },
+    "455": {
+      "number": 308,
+      "filename": "sdk_core_v308.min.js"
+    }
+  }
+}
